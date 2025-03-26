@@ -1,0 +1,783 @@
+"id";"title";"slug";"acronym";"url";"organization";"organization_id";"owner";"owner_id";"description";"frequency";"license";"temporal_coverage.start";"temporal_coverage.end";"spatial.granularity";"spatial.zones";"featured";"created_at";"last_modified";"tags";"archived";"resources_count";"main_resources_count";"resources_formats";"downloads";"harvest.backend";"harvest.domain";"harvest.created_at";"harvest.modified_at";"harvest.remote_url";"quality_score";"metric.discussions";"metric.reuses";"metric.followers";"metric.views";"metric.resources_downloads"
+"67a1e983bf9d219de1d86bbd";"Fiches d'informations sur les stations complémentaires";"fiches-dinformations-sur-les-stations-complementaires";"";"https://www.data.gouv.fr/fr/datasets/fiches-dinformations-sur-les-stations-complementaires/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### **Présentation**
+
+Accès aux caractéristiques des stations météorologiques complémentaires de nos partenaires.
+Cette fiche comprend la localisation, les emplacements successifs, la date d'ouverture et de fermeture, la qualité du site, la classe des mesures, le catalogue des mesures, instrumentation et photographies du site en l'état de nos bases. ";"punctual";"Licence Ouverte / Open Licence version 2.0";"1786-01-01";"2025-02-12";"other";"";False;"2025-02-04T10:18:43.863000";"2025-03-16T09:09:56.579000";"fiche,instrumentation,localisation";False;786;786;"pdf";7332;"";"";"";"";"";"0.89";0;0;0;92;7332
+"67a1e85a366f75613f750296";"Fiches d'informations sur les stations";"fiches-dinformations-sur-les-stations";"";"https://www.data.gouv.fr/fr/datasets/fiches-dinformations-sur-les-stations/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### **Présentation**
+
+Accès aux caractéristiques des stations météorologiques de Météo-France.
+Cette fiche comprend la localisation, les emplacements successifs, la date d'ouverture et de fermeture, la qualité du site, la classe des mesures, le catalogue des mesures, instrumentation et photographies du site en l'état de nos bases. ";"punctual";"Licence Ouverte / Open Licence version 2.0";"1786-01-01";"2025-02-12";"other";"";False;"2025-02-04T10:13:46.388000";"2025-03-26T09:37:51.064000";"fiche,instrumentation,localisation";False;15014;15014;"pdf";6431;"";"";"";"";"";"0.89";0;0;0;78;6431
+"67910698aae7f4e70034cf7e";"Données climatologiques de base -  6 minutes - stations complémentaires";"donnees-climatologiques-de-base-6-minutes-stations-complementaires";"";"https://www.data.gouv.fr/fr/datasets/donnees-climatologiques-de-base-6-minutes-stations-complementaires/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### **Présentation**
+
+Données climatologiques des stations complémentaires de métropole et d'outre-mer pour le paramètre précipitation au pas temps 6 minutes. L'accès à toute la profondeur de la base de données est possible (depuis juillet 2005 au plus tôt).
+
+### **Informations techniques**
+
+- Les données 6mn de précipitations sont proposées en téléchargement, par département et par lots de période au format csv compressé
+- La mise à jour des fichiers est annuelle pour les fichiers par décennie, mensuelles pour les fichiers de la décennie en cours jusqu'à l'année -2 et quotidiennes pour les deux dernières années
+- Les heures sont exprimées en UTC pour la métropole et en FU pour l'outre-mer
+";"daily";"Licence Ouverte / Open Licence version 2.0";"2000-01-01";"2025-02-01";"fr:departement";"";False;"2025-01-22T14:54:16.159000";"2025-03-04T10:33:55.007000";"climatologique-base,climatologique-base-donnees-stations-complementaires,hvd,meteodatagouvfr,meteorologiques";False;32;32;"csv.gz";540;"";"";"";"";"";"0.89";0;0;0;266;492
+"67910646543edd2701937075";"Données climatologiques de base - décadaires agro - stations complémentaires";"donnees-climatologiques-de-base-decadaires-agro-stations-complementaires";"";"https://www.data.gouv.fr/fr/datasets/donnees-climatologiques-de-base-decadaires-agro-stations-complementaires/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Données climatologiques, mesurées ou calculées, des stations complémentaires de métropole et d'outre-mer depuis leur ouverture, pour les paramètres agrométéorologiques : hauteur des précipitations, vitesse moyenne du vent, moyenne des températures minimales et maximales, tension de vapeur moyenne, cumul du rayonnement global, durée d'insolation et ETP Penman.
+
+Ces données ont subi un contrôle climatologique.
+
+### Informations techniques
+
+- Les données sont proposées en téléchargement, par département et par lots de période au format csv compressé
+- L'ensemble des paramètres agrométéorologiques est fourni pour l'ensemble des stations météorologiques
+- La mise à jour des fichiers est annuelle pour les historiques avant 1950, mensuelles pour les fichiers de 1950 jusqu'à l'année -2 et quotidiennes pour les deux dernières années";"daily";"Licence Ouverte / Open Licence version 2.0";"1950-01-01";"2025-02-04";"fr:departement";"";False;"2025-01-22T14:52:54.138000";"2025-03-26T07:37:34.059000";"climatologique-base,climatologique-base-donnees-stations-complementaires,hvd,meteodatagouvfr,meteorologiques";False;80;80;"csv.gz";1307;"";"";"";"";"";"1.00";0;0;0;273;1211
+"679105fab4d7bba9aa3fd4be";"Données climatologiques de base - décadaires - stations complémentaires";"donnees-climatologiques-de-base-decadaires-stations-complementaires";"";"https://www.data.gouv.fr/fr/datasets/donnees-climatologiques-de-base-decadaires-stations-complementaires/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"## Présentation
+Ce jeu de données contient des fichiers contenant des informations climatologiques de base.
+
+## Informations techniques
+- Les données décadaires des stations complémentaires sont proposées ici en téléchargement, par départements et par lots de périodes au format csv compressé.
+- L'ensemble des paramètres météos est fourni pour l'ensemble des postes météorologiques.
+- Les heures sont exprimées en UTC pour la métropole et en FU pour l'outre-mer
+- Le fichier contenant la période finale depuis le 01/01/2020 est mis à jour régulièrement, chaque début de mois.
+- La mise à jour des fichiers est annuelle pour les historiques avant 1950, mensuelles pour les fichiers de 1950 jusqu'à l'année -2 et quotidiennes pour les deux dernières années
+";"daily";"Licence Ouverte / Open Licence version 2.0";"1908-01-01";"2025-02-04";"fr:departement";"";False;"2025-01-22T14:51:38.937000";"2025-03-26T07:42:30.608000";"climatologique-base,climatologique-base-donnees-stations-complementaires,hvd,meteodatagouvfr,meteorologiques";False;151;151;"csv.gz";2346;"";"";"";"";"";"1.00";0;0;0;910;2346
+"6791055a6d553b689a5e2ba4";"Données climatologiques de base - horaires - stations complémentaires";"donnees-climatologiques-de-base-horaires-stations-complementaires";"";"https://www.data.gouv.fr/fr/datasets/donnees-climatologiques-de-base-horaires-stations-complementaires/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Données climatologiques de toutes les stations complémentaires de  métropole et outre-mer depuis leur ouverture, pour tous les paramètres disponibles. Les données ont subi un contrôle climatologique
+### 
+Informations techniques
+
+- Les données horaires sont proposées en téléchargement, par département et par lots de période au format csv compressé
+- L'ensemble des paramètres est fourni pour l'ensemble des stations météorologiques
+- Les heures sont exprimées en UTC pour la métropole et en FU pour l'outre-mer
+- La mise à jour des fichiers est annuelle pour les fichiers par décennie, mensuelles pour les fichiers de la décennie en cours jusqu'à l'année -2 et quotidiennes pour les deux dernières années";"daily";"Licence Ouverte / Open Licence version 2.0";"1920-01-01";"2025-02-04";"fr:departement";"";False;"2025-01-22T14:48:58.153000";"2025-03-26T07:57:50.331000";"climatologique-base,climatologique-base-donnees-stations-complementaires,hvd,meteodatagouvfr,meteorologiques";False;307;307;"csv.gz";4334;"";"";"";"";"";"1.00";0;0;0;217;4234
+"6791045ba9116b0a49e6a720";"Données climatologiques de base - mensuelles - stations complémentaires";"donnees-climatologiques-de-base-mensuelles-stations-complementaires";"";"https://www.data.gouv.fr/fr/datasets/donnees-climatologiques-de-base-mensuelles-stations-complementaires/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Données climatologiques de toutes les stations complémentaires de métropole et d'outre-mer depuis leur ouverture, pour tous les paramètres disponibles. Les données ont subi un contrôle climatologique.
+
+### Informations techniques
+
+- Les données décadaires sont proposées en téléchargement, par département et par lots de période au format csv compressé
+- L'ensemble des paramètres est fourni pour l'ensemble des stations météorologiques
+- Les heures sont exprimées en UTC pour la métropole et en FU pour l'outre-mer
+- La mise à jour des fichiers est annuelle pour les historiques avant 1950, mensuelles pour les fichiers de 1950 jusqu'à l'année -2 et quotidiennes pour les deux dernières années";"daily";"Licence Ouverte / Open Licence version 2.0";"1908-01-01";"2025-02-04";"fr:departement";"";False;"2025-01-22T14:44:43.112000";"2025-03-26T08:12:04.755000";"climatologique-base,climatologique-base-donnees-stations-complementaires,hvd,meteodatagouvfr,meteorologiques";False;151;151;"csv.gz";2520;"";"";"";"";"";"1.00";0;0;0;206;2389
+"679103e271c55090cfe86871";"Données climatologiques de base - quotidiennes - stations complémentaires";"donnees-climatologiques-de-base-quotidiennes-stations-complementaires";"";"https://www.data.gouv.fr/fr/datasets/donnees-climatologiques-de-base-quotidiennes-stations-complementaires/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Données climatologiques de toutes les stations complémentaires de métropole et d'outre-mer depuis leur ouverture, pour tous les paramètres disponibles. Ces données ont subi un contrôle climatologique.
+
+### Informations techniques
+
+- Les données quotidiennes sont proposées en téléchargement, par département, et par lots de période au format csv compressé
+- L'ensemble des paramètres est fourni pour l'ensemble des stations météorologiques
+- Les heures sont exprimées en UTC pour la métropole et en FU pour l'outre-mer
+- La mise à jour des fichiers est annuelle pour les historiques avant 1950, mensuelles pour les fichiers de 1950 jusqu'à l'année -2 et quotidiennes pour les deux dernières années";"daily";"Licence Ouverte / Open Licence version 2.0";"1908-01-01";"2025-02-04";"fr:departement";"";False;"2025-01-22T14:42:42.725000";"2025-03-26T08:45:30.663000";"climatologique-base,climatologique-base-donnees-stations-complementaires,hvd,meteodatagouvfr,meteorologiques";False;221;221;"csv.gz";3731;"";"";"";"";"";"1.00";0;0;0;650;3731
+"676572407ce86a7705199653";"Package Radar";"package-radar";"";"https://www.data.gouv.fr/fr/datasets/package-radar/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Obtenir les données publiques Radar pour la France.
+
+Attention, récupérer les données nécessite de passer par le portail API de Météo-France.
+";"unknown";"Licence Ouverte / Open Licence version 2.0";"";"";"country-group";"";False;"2024-12-20T13:33:52.783000";"2025-02-03T17:59:04.969000";"hvd,meteorologiques";False;1;1;"html";40;"";"";"";"";"";"0.44";0;0;0;441;37
+"675bf4442d16a89b0a767b24";"Bulletin Vigilance";"bulletin-vigilance";"";"https://www.data.gouv.fr/fr/datasets/bulletin-vigilance/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"*Attention* : ces données ne sont accessibles que via le portail API de Météo-France. Plus d'infos sur la [page dédiée de l'API](https://www.data.gouv.fr/fr/dataservices/api-bulletin-vigilance/).
+
+Flux de la Vigilance de Météo-France qui indique le niveau de danger d'une situation météorologique pour chaque département. Formats téléchargeables : un produit """"bulletin"""" de Vigilance, au format JSON : ce produit contient le texte des bulletins de suivi diffusés, qu’ils soient nationaux, zonaux (au sens zones de défense) ou départementaux. un produit """"carte"""" de Vigilance, au format JSON : ce produit contient les prévisions de risque, dont la chronologie des phénomènes, de niveau national et départemental. trois vignettes des cartes nationales de Vigilance à haute définition et au format PNG pour J et J+1, J seul, J+1 seul.";"daily";"Licence Ouverte / Open Licence version 2.0";"";"";"";"";False;"2024-12-13T08:45:55.991000";"2024-12-13T08:47:47.609000";"hvd,meteorologiques";False;0;0;"";0;"";"";"";"";"";"0.33";0;0;0;384;""
+"6727e09aa5920b6489cd2d2c";"Champs CONSTANT";"champs-constant-1";"CONSTANT";"https://www.data.gouv.fr/fr/datasets/champs-constant-1/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Champs CONSTANT (relief et masque terre-mer) pour les grilles des modèles météorologiques.
+
+Les champs sont en grib2 compression grib_\_second_\_order.
+
+Ils sont mis à jour une fois par an en début d'année.
+
+Les fichiers sont repris en tant que ressources sur les jeux de données correspondants.
+";"annual";"Licence Ouverte / Open Licence version 2.0";"2024-02-29";"2025-12-31";"other";"";False;"2024-11-03T20:44:09.997000";"2025-03-14T09:56:26.286000";"champ,constant,grille,masque,meteodatagouvfr,modele,relief,terre-mer";False;14;14;"grib2";612;"";"";"";"";"";"0.89";0;0;1;578;1731
+"66ebf2cb9dd6916802ae90a1";"Postes";"postes";"";"https://www.data.gouv.fr/fr/datasets/postes/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Fichier contenant la liste des postes, ouverts ou fermés, ayant des données climatologiques de base, avec leurs caractéristiques :
+- dates d'ouverture et de fermeture (le cas échéant)
+- coordonnées (Lambert et GPS)
+- altitude
+";"punctual";"Licence Ouverte / Open Licence version 2.0";"1688-06-01";"2024-09-17";"other";"France";False;"2024-09-19T09:45:47.241000";"2025-03-04T10:33:55.344000";"";False;3;2;"csv";781;"";"";"";"";"";"1.00";0;1;0;736;777
+"66d02b7174375550d7b10f3f";"Données PNT - rétention 14 jours";"donnees-pnt-retention-14-jours";"";"https://www.data.gouv.fr/fr/datasets/donnees-pnt-retention-14-jours/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Les données des Prévisions Numériques du Temps sont archivées 14 jours et mises à disposition sur une plateforme dédiée disponible ici. Vous pouvez y retrouver, par échéance temporelle, les données :
+- AROME
+- AROME Outre Mer
+- ARPEGE
+- Vagues surcotes";"punctual";"Licence Ouverte / Open Licence version 2.0";"2024-11-07";"2025-03-26";"other";"France";True;"2024-08-29T08:04:01.632000";"2025-03-26T14:00:20.034000";"hvd,meteorologiques";False;2;1;"url,json";1237;"";"";"";"";"";"1.00";0;1;0;1141;1220
+"669e23a7ce052a9e8521b75e";"Réanalyses Coméphore";"reanalyses-comephore";"";"https://www.data.gouv.fr/fr/datasets/reanalyses-comephore/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"COMEPHORE (COmbinaison en vue de la Meilleure Estimation de la Précipitation HOraiRE), est une réanalyse horaire des précipitations par fusion des données des radars et des pluviomètres, couvrant la France métropolitaine.
+Les réanalyses débutent le 1er janvier 1997.
+L'archive COMEPHORE est incrémentée tous les mois, pour le mois N-2. Par exemple, l'archive de juillet est disponible à partir de début septembre.
+";"monthly";"Licence Ouverte / Open Licence version 2.0";"2025-01-01";"2025-01-23";"other";"France métropolitaine";False;"2024-07-22T09:17:27.554000";"2025-03-18T08:52:08.840000";"climatologique-base,climatologique-base-donnees-spatialisees,donnees-ouvertes,lame-deau,meteodatagouvfr,meteofrance,reanalyse";False;338;337;"tar,odt";10763;"";"";"";"";"";"1.00";0;0;0;1682;10623
+"667eae35510cd549fc7722c1";"ETP FAO Hargreaves";"etp-fao-hargreaves";"";"https://www.data.gouv.fr/fr/datasets/etp-fao-hargreaves/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Données d'ETP (EvapoTranspiration) Safran FAO Hargreaves à destination des travaux sur le changement climatique.
+Le calcul d'ETP FAO Hargreaves s'appuie sur l'approche Penman Monteith selon la formule FAO1 recommandée au niveau international. 
+Cette ETP est calculée sur la France métropolitaine sur la grille du modèle Safran à la résolution de 8 km.";"annual";"Licence Ouverte / Open Licence";"1970-01-01";"2023-12-31";"country";"France métropolitaine";False;"2024-06-28T12:36:05.099000";"2025-02-03T18:03:20.410000";"changement-climatique,climatologique-changement-climatique,climatologique-changement-climatique-donnees-spatialisees,etp,meteodatagouvfr";False;7;6;"csv.gz,pdf";968;"";"";"";"";"";"1.00";0;0;0;748;869
+"661d079b6357625e12013241";"Données ETP spatialisées quotidiennes";"donnees-etp-spatialisees-quotidiennes";"";"https://www.data.gouv.fr/fr/datasets/donnees-etp-spatialisees-quotidiennes/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Données quotidiennes d’ETP (EvapoTranspitration Potentielle) Penman-Monteith interpolées en points de grille sur la France métropolitaine.
+
+### Informations techniques
+
+- Les données sont proposées en téléchargement, par année, au format csv compressé 
+- La résolution est de 0.125° (environ 12km) 
+- La mise à jour des fichiers est quotidienne pour l’année en cours
+";"daily";"Licence Ouverte / Open Licence version 2.0";"1970-01-01";"2025-02-04";"other";"France métropolitaine";False;"2024-04-15T10:55:23.520000";"2025-03-26T13:47:34.634000";"climatologique-base,climatologique-base-donnees-spatialisees,meteodatagouvfr";False;58;56;"pdf,csv.gz,odt";4386;"";"";"";"";"";"1.00";0;0;0;1728;4151
+"661d0762109ece6f985e9857";"Données ETP spatialisées décadaires";"donnees-etp-spatialisees-decadaires";"";"https://www.data.gouv.fr/fr/datasets/donnees-etp-spatialisees-decadaires/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Données décadaires d’ETP (EvapoTranspitration Potentielle) Penman interpolées en points de grille sur la France métropolitaine.
+
+### Informations techniques
+
+- Les données sont proposées en téléchargement, par année, au format csv compressé 
+- La résolution est de 0.125° (environ 12km) 
+- La mise à jour des fichiers est décadaire pour l’année en cours
+";"threeTimesAMonth";"Licence Ouverte / Open Licence version 2.0";"1970-01-01";"2025-02-04";"other";"France métropolitaine";False;"2024-04-15T10:54:26.044000";"2025-03-26T08:45:30.996000";"climatologique-base,climatologique-base-donnees-spatialisees,meteodatagouvfr";False;58;56;"pdf,csv.gz,odt";3220;"";"";"";"";"";"1.00";0;0;0;1166;2945
+"65e0bd4b88e4fd88b989ba46";"Paquets Arome Outre-Mer - Guyane - Résolution 0,025°";"paquets-arome-outre-mer-guyane-resolution-0-025deg-1";"";"https://www.data.gouv.fr/fr/datasets/paquets-arome-outre-mer-guyane-resolution-0-025deg-1/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle atmosphérique français à aire limitée à haute résolution AROME sur la Guyane.
+
+Champs d’analyse et de prévision en points de grille régulière sur le domaine “Guyane”.
+
+Grille : GUYANE - Pas de temps : 1h
+
+";"fourTimesADay";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"fr:region";"Guyane";False;"2024-02-29T17:22:19.837000";"2025-03-26T13:47:07.753000";"guyane,hvd,meteodatagouvfr,meteorologiques,pnt,pnt-arome-outre-mer";False;539;537;"grib2,pdf";17867;"";"";"";"";"";"1.00";0;1;1;902;17168
+"65e040c50a5c6872ebebc711";"Données changement climatique - SIM mensuelle ";"donnees-changement-climatique-sim-mensuelle";"";"https://www.data.gouv.fr/fr/datasets/donnees-changement-climatique-sim-mensuelle/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Données mensuelles du modèle de simulation des schémas de surface (Safran - Isba).
+Paramètres atmosphériques de surface et bilans des sols en points de grille issus de l'analyse de modèle simulant les flux d’eau et d’énergie à la surface terrestre.
+
+### Informations techniques
+
+- Les données sont proposées en téléchargement, par lots de périodes de 1 à 10 ans, pour la métropole, au format csv compressé
+- L'ensemble des paramètres météos est fourni pour l'ensemble des points de la grille Safran.
+- La résolution est de 0.072° (environ 8km)
+- La mise à jour des fichiers est mensuelle pour la décennie en cours";"monthly";"Licence Ouverte / Open Licence version 2.0";"1958-01-01";"2025-01-02";"other";"France";False;"2024-02-29T08:31:01.956000";"2025-03-05T09:36:31.661000";"climatologique-changement-climatique,climatologique-changement-climatique-donnees-spatialisees,hvd,meteodatagouvfr,meteorologiques";False;10;8;"pdf,csv.gz,odt";2953;"";"";"";"";"";"1.00";0;2;0;1578;3087
+"65e04035010927c797072b29";"Données changement climatique - SIM décadaire";"donnees-changement-climatique-sim-decadaire";"";"https://www.data.gouv.fr/fr/datasets/donnees-changement-climatique-sim-decadaire/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Données décadaires du modèle de simulation des schémas de surface (Safran - Isba).
+Paramètres atmosphériques de surface et bilans des sols en points de grille issus de l'analyse de modèle simulant les flux d’eau et d’énergie à la surface terrestre.
+
+### Informations techniques
+
+- Les données sont proposées en téléchargement, par lots de périodes de 1 à 10 ans, pour la métropole, au format csv compressé
+- L'ensemble des paramètres météos est fourni pour l'ensemble des points de la grille Safran.
+- La résolution est de 0.072° (environ 8km)
+- La mise à jour des fichiers est décadaire pour la décennie en cours";"threeTimesAMonth";"Licence Ouverte / Open Licence version 2.0";"1958-01-01";"2025-02-03";"other";"France";False;"2024-02-29T08:28:37.685000";"2025-03-22T08:43:50.213000";"climatologique-changement-climatique,climatologique-changement-climatique-donnees-spatialisees,hvd,meteodatagouvfr,meteorologiques";False;10;8;"pdf,csv.gz,odt";1644;"";"";"";"";"";"1.00";0;0;0;1077;1618
+"65bd1a505a5b412989a84ca7";"Paquets de modèle de vagues - MFWAM - Résolution 0.025°";"paquets-de-modele-de-vagues-mfwam-resolution-0-025deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-de-modele-de-vagues-mfwam-resolution-0-025deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle de prévision de vagues MFWAM. 
+Champs d’analyse et de prévision en points de grille. 
+Hauteur, direction et période de la mer du vent, de la mer totale et des houles primaire, secondaire et totale.
+
+Domaine: Zone FRANCE élargie (53N 38N 8W 12E)
+
+Pas de temps : 1h
+
+Résolution : 0,025°";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"France";False;"2024-02-02T16:37:36.861000";"2025-03-26T11:24:58.797000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-vague-surcote";False;50;48;"grib2,pdf";2956;"";"";"";"";"";"1.00";0;0;0;1221;2670
+"65bd1a2957e1cc7c9625e7b5";"Paquets de modèle de vagues - MFWAM - Résolution 0.1°";"paquets-de-modele-de-vagues-mfwam-resolution-0-1deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-de-modele-de-vagues-mfwam-resolution-0-1deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle de prévision de vagues MFWAM.
+Champs d’analyse et de prévision en points de grille.
+Hauteur, direction et période de la mer du vent, de la mer totale et des houles primaire, secondaire et totale.
+
+Domaine: Europe (72N 20N 32W 42E) et à partir du 25/03/25 run de 06  Domaine: Globe
+
+Pas de temps : 1h jusqu'à 48h puis 3h
+
+Résolution : 0,1°
+";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"";False;"2024-02-02T16:36:57.379000";"2025-03-26T11:25:19.825000";"hvd,meteodatagouvfr,meteorologiques,mfwam,pnt,pnt-vague-surcote";False;68;66;"grib2,pdf";2897;"";"";"";"";"";"1.00";0;0;0;656;2236
+"65bd19fe0d61026813636c33";"Paquets de modèle de vagues - MFWAM - Résolution 0.5°";"paquets-de-modele-de-vagues-mfwam-resolution-0-5deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-de-modele-de-vagues-mfwam-resolution-0-5deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle de prévision de vagues MFWAM. 
+Champs d'analyse et de prévision en points de grille. 
+Hauteur, direction et période de la mer du vent, de la mer totale et des houles primaire, secondaire et totale.
+
+Domaine: Monde
+
+Pas de temps : 1h puis 3h
+
+Résolution : 0,5°";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"Monde";False;"2024-02-02T16:36:14.768000";"2025-03-26T11:25:38.600000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-vague-surcote";False;68;66;"grib2,pdf";2617;"";"";"";"";"";"1.00";0;0;0;619;2171
+"65bd19a20a9351d1cbe9a090";"Paquets de modèle de vagues haute résolution - WW3-MARP - Résolution 0.1°";"paquets-de-modele-de-vagues-haute-resolution-ww3-marp-resolution-0-1deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-de-modele-de-vagues-haute-resolution-ww3-marp-resolution-0-1deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle de prévision de vagues haute résolution WW3, forcé par les vents du modèle ARPEGE, sur le domaine Méditerranée.
+
+Hauteur, direction et période des vagues de la mer totale, de la mer du vent et des houles primaire et secondaire. Les analyses sur les 6 dernières heures sont aussi fournies.
+
+Méditerranée - Pas de temps : 1h - Format : Netcdf 
+
+";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-03-05";"2024-03-06";"other";"";False;"2024-02-02T16:34:42.414000";"2025-03-26T11:28:37.478000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-vague-surcote";False;3;1;"nc,pdf";359;"";"";"";"";"";"1.00";0;0;0;949;341
+"65bd197cd4222b0c96db759e";"Paquets de modèle de vagues haute résolution - WW3-WARP - Résolution 0.1°";"paquets-de-modele-de-vagues-haute-resolution-ww3-warp-resolution-0-1deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-de-modele-de-vagues-haute-resolution-ww3-warp-resolution-0-1deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle de prévision de vagues haute résolution WW3, forcé par les vents du modèle ARPEGE, sur le domaine Atlantique.
+
+Hauteur, direction et période des vagues de la mer totale, de la mer du vent et des houles primaire et secondaire. Les analyses sur les 6 dernières heures sont aussi fournies.
+
+Atlantique - Pas de temps : 1h - Format : Netcdf ";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-03-05";"2024-03-06";"other";"";False;"2024-02-02T16:34:03.996000";"2025-03-26T11:41:29.096000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-vague-surcote";False;3;1;"nc,pdf";325;"";"";"";"";"";"1.00";0;0;0;815;298
+"65bd19226c4e3fcbf4948f99";"Paquets de modèle de vagues haute résolution - WW3-MARO - Résolution 0.1°";"paquets-de-modele-de-vagues-haute-resolution-ww3-maro-resolution-0-1deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-de-modele-de-vagues-haute-resolution-ww3-maro-resolution-0-1deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle de prévision de vagues haute résolution WW3, forcé par les vents du modèle AROME, sur le domaine Méditerranée.
+
+Hauteur, direction et période des vagues de la mer totale, de la mer du vent et des houles primaire et secondaire. Les analyses sur les 6 dernières heures sont aussi fournies.
+
+Méditerranée - Pas de temps : 1h - Format : Netcdf ";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"";False;"2024-02-02T16:32:34.495000";"2025-03-26T11:28:37.191000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-vague-surcote";False;3;1;"nc,pdf";333;"";"";"";"";"";"1.00";0;0;0;661;240
+"65bd183c9ec6ae3f87a5334a";"Paquets de modèle de surcote océanique - HYCOM2D-MARP - Résolution 0,04°";"paquets-de-modele-de-surcote-oceanique-hycom2d-marp-resolution-0-04deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-de-modele-de-surcote-oceanique-hycom2d-marp-resolution-0-04deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle de prévision de la surcote océanique HYCOM2D, forçé par le modèle atmosphérique ARPEGE, et intégrant une simulation de la marée.
+
+Paramètres fournis : surcote instantanée, surcote maximale sur les 3 dernières heures, surcote maximale sur les 24 heures précédentes (toutes les 24h).
+
+Grille MEDIT (45N 35N 6W 17E) - Pas de temps : 1h - Format : GRIB2 ";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"";False;"2024-02-02T16:28:44.019000";"2025-03-26T10:24:05.547000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-vague-surcote";False;105;103;"grib2,pdf";3733;"";"";"";"";"";"1.00";0;0;0;650;3196
+"65bd17fe9ec6ae3f87a53349";"Paquets de modèle de surcote océanique - HYCOM2D-WARP - Résolution 0,04°";"paquets-de-modele-de-surcote-oceanique-hycom2d-warp-resolution-0-04deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-de-modele-de-surcote-oceanique-hycom2d-warp-resolution-0-04deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle de prévision de la surcote océanique HYCOM2D, forçé par le modèle atmosphérique ARPEGE, et intégrant une simulation de la marée.
+
+Paramètres fournis : surcote instantanée, surcote maximale sur les 3 dernières heures, surcote maximale sur les 24 heures précédentes (toutes les 24h).
+
+Grille COTWEU (62N 43N 9W 10E) - Pas de temps : 1h - Format : GRIB2";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"";False;"2024-02-02T16:27:42.402000";"2025-03-26T10:35:24.761000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-vague-surcote";False;105;103;"grib2,pdf";3863;"";"";"";"";"";"1.00";0;0;0;762;3403
+"65bd17b9775b5222832d67a4";"Paquets de modèle de surcote océanique - HYCOM2D-WARO - Résolution 0,04°";"paquets-de-modele-de-surcote-oceanique-hycom2d-waro-resolution-0-04deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-de-modele-de-surcote-oceanique-hycom2d-waro-resolution-0-04deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle de prévision de la surcote océanique HYCOM2D, forçé par le modèle atmosphérique AROME, et intégrant une simulation de la marée.
+
+Paramètres fournis : surcote instantanée, surcote maximale sur les 3 dernières heures, surcote maximale sur les 24 heures précédentes (toutes les 24h).
+
+Grille COTWEU (62N 43N 9W 10E) - Pas de temps : 1h - Format : GRIB2";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"";False;"2024-02-02T16:26:33.733000";"2025-03-26T11:24:45.385000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-vague-surcote";False;54;52;"grib2,pdf";2501;"";"";"";"";"";"1.00";0;0;0;863;2171
+"65bd17779ec6ae3f87a53348";"Paquets de modèle de surcote océanique - HYCOM2D-MARO - Résolution 0,04°";"paquets-de-modele-de-surcote-oceanique-hycom2d-maro-resolution-0-04deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-de-modele-de-surcote-oceanique-hycom2d-maro-resolution-0-04deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle de prévision de la surcote océanique HYCOM2D, forçé par le modèle atmosphérique AROME, et intégrant une simulation de la marée.
+
+Paramètres fournis : surcote instantanée, surcote maximale sur les 3 dernières heures, surcote maximale sur les 24 heures précédentes (toutes les 24h).
+
+Grille MEDIT (45N 35N 6W 17E) - Pas de temps : 1h - Format : GRIB2";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"";False;"2024-02-02T16:25:27.408000";"2025-03-26T11:24:28.494000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-vague-surcote";False;54;52;"grib2,pdf";2464;"";"";"";"";"";"1.00";0;0;0;594;1453
+"65bd162b9dc0d31edfabc2b9";"Paquets Arome Outre-Mer - Antilles - Résolution 0,025°";"paquets-arome-outre-mer-antilles-resolution-0-025deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-arome-outre-mer-antilles-resolution-0-025deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle atmosphérique français à aire limitée à haute résolution AROME sur les Antilles françaises.
+
+Champs d’analyse et de prévision en points de grille régulière sur le domaine “Antilles”.
+
+Grille : CARAïBES (9,7N 22,9N 75,3W 51,7W) - Pas de temps : 1h";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"";False;"2024-02-02T16:19:55.013000";"2025-03-26T13:40:44.166000";"antilles,antilles-francaises,hvd,meteodatagouvfr,meteorologiques,pnt,pnt-arome-outre-mer";False;540;538;"grib2,pdf";18470;"";"";"";"";"";"1.00";0;1;1;837;16920
+"65bd1560c73941a5e0ec1891";"Paquets Arome Outre-Mer - Réunion-Mayotte - Résolution 0,025°";"paquets-arome-outre-mer-reunion-mayotte-resolution-0-025deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-arome-outre-mer-reunion-mayotte-resolution-0-025deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle atmosphérique français à aire limitée à haute résolution AROME sur la Réunion-Mayotte.
+
+Champs d’analyse et de prévision en points de grille régulière sur le domaine “Réunion-Mayotte”.
+
+Grille : INDIEN (7,25S 25,9S 32,75E 67,6E) - Pas de temps : 1h";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"";False;"2024-02-02T16:16:32.854000";"2025-03-26T13:51:24.639000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-arome-outre-mer";False;539;537;"grib2,pdf";16701;"";"";"";"";"";"1.00";0;1;2;899;15978
+"65bd1509cc112e6a1458ab95";"Paquets Arome Outre-Mer - Polynésie - Résolution 0,025°";"paquets-arome-outre-mer-polynesie-resolution-0-025deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-arome-outre-mer-polynesie-resolution-0-025deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle atmosphérique français à aire limitée à haute résolution AROME sur la Polynésie.
+
+Champs d’analyse et de prévision en points de grille régulière sur le domaine “Polynésie”.
+
+Grille : POLYN (12,6S 25,25S 157,5W 144,5W) - Pas de temps : 1h";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"";False;"2024-02-02T16:15:05.247000";"2025-03-26T14:06:14.184000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-arome-outre-mer";False;540;538;"grib2,pdf";14404;"";"";"";"";"";"0.89";0;1;1;769;16529
+"65bd14cca6919e97e9699b09";"Paquets Arome Outre-Mer - Nouvelle-Calédonie - Résolution 0,025°";"paquets-arome-outre-mer-nouvelle-caledonie-resolution-0-025deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-arome-outre-mer-nouvelle-caledonie-resolution-0-025deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"
+Regroupement de différents paramètres du modèle atmosphérique français à aire limitée à haute résolution AROME sur la Nouvelle-Calédonie.
+
+Champs d’analyse et de prévision en points de grille régulière sur le domaine “Nouvelle-Calédonie”.
+
+Grille : NCALED (10S 30S 156E 174E) - Pas de temps : 1h
+";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"";False;"2024-02-02T16:14:04.820000";"2025-03-26T13:58:33.695000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-arome-outre-mer";False;539;537;"grib2,pdf";16757;"";"";"";"";"";"1.00";0;1;1;837;13775
+"65bd13e557b26b467363b521";"Paquets Arpège - Résolution 0,25°";"paquets-arpege-resolution-0-25deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-arpege-resolution-0-25deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle français de prévision atmosphérique global Arpège, répartis en 4 groupes d'échéances : 00h-24h, 25h-48h, 49h-72h et 73h-102h.
+
+Données d’analyse et de prévision en points de grille régulière.
+
+Grille GLOB025 - Pas de temps : 1h puis 3h - Format GRIB2
+";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"";False;"2024-02-02T16:10:13.187000";"2025-03-26T10:33:37.019000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-arpege";False;34;32;"grib2,pdf";6137;"";"";"";"";"";"0.89";0;1;2;1672;6622
+"65bd13b2eb9e79ab309f6e63";"Paquets Arpège - Résolution 0,1°";"paquets-arpege-resolution-0-1deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-arpege-resolution-0-1deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle français de prévision atmosphérique global Arpège, répartis en plusieurs groupes d’échéances : 00h-12h, 13h-24h, 25h-36h, 37h-48h, 49h-60h, 61h-72h, 73h-84h, 85h-96h et 97h-102h.
+
+Données d’analyse et de prévision en points de grille régulière.
+
+Grille EURAT01 (72N 20N 32W 42E)&#x20;
+
+– Pas de temps :&#x20;
+
+* 1h pour certains paramètres&#x20;
+
+- 1h  jusqu'à l'échéance 48 puis 3h pour les paramètres restant&#x20;
+
+– Format GRIB2
+";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"";False;"2024-02-02T16:09:22.288000";"2025-03-26T10:25:46.938000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-arpege";False;74;72;"grib2,pdf";19476;"";"";"";"";"";"1.00";0;2;2;1751;19772
+"65bd12d7bfd26e26804204cb";"Paquets Arome - Résolution 0,025°";"paquets-arome-resolution-0-025deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-arome-resolution-0-025deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"
+Regroupement de différents paramètres du modèle atmosphérique français à aire limitée et à haute résolution AROME, répartis en plusieurs groupes d’échéances : 00h-06h, 07h-12h, 13h-18h, 19h-24h, 25h-30h, 31h-36h, 37h-42h, 43h-48h et 49h-51h.
+
+Données d’analyse et de prévision en points de grille régulière.
+
+Grille EURW1S40 (55,4N 37,5N 12W 16E) - Pas de temps : 1h - Format GRIB2
+
+";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"France";False;"2024-02-02T16:05:43.368000";"2025-03-26T13:27:16.079000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-arome-metropole";False;102;99;"grib2,pdf";23515;"";"";"";"";"";"1.00";2;1;1;1675;22104
+"65bd1247a6238f16e864fa80";"Paquets Arome - Résolution 0,01°";"paquets-arome-resolution-0-01deg";"";"https://www.data.gouv.fr/fr/datasets/paquets-arome-resolution-0-01deg/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Regroupement de différents paramètres du modèle atmosphérique français à aire limitée et à haute résolution AROME, en fichiers horaires.
+
+Données d’analyse et de prévision en points de grille régulière.
+
+Grille EURW1S100 (55,4N 37,5N 12W 16E) - Pas de temps : 1h - Format GRIB2";"continuous";"Licence Ouverte / Open Licence version 2.0";"2024-02-28";"2024-02-29";"other";"France";False;"2024-02-02T16:03:19.146000";"2025-03-26T13:13:53.926000";"hvd,meteodatagouvfr,meteorologiques,pnt,pnt-arome-metropole";False;211;208;"grib2,pdf";15732;"";"";"";"";"";"1.00";0;3;2;1518;14851
+"656dab84db1bdf627a40eaae";"Informations sur les stations (métadonnées)";"informations-sur-les-stations-metadonnees";"";"https://www.data.gouv.fr/fr/datasets/informations-sur-les-stations-metadonnees/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"## Accès aux caractéristiques des stations météorologiques de métropole et d'outre-mer en service. 
+
+Ce jeu de données vous permet de rechercher les stations par numéro de département, nom de la station ou identifiant (ID). Cliquer ensuite sur l'ID de votre choix.
+
+La fiche complète de la station est accessible sur l'encart ""Fiche de poste"". Cette fiche comprend localisation, date d'ouverture, qualité du site, catalogue des mesures, instrumentation et photographies du site en l'état de nos bases. ";"annual";"Licence Ouverte / Open Licence version 2.0";"1800-01-01";"2023-12-12";"poi";"France";False;"2023-12-04T10:35:48.928000";"2025-02-03T18:11:26.845000";"meteodatagouvfr,metropole,outre-mer,stations,stations-mf";False;2;2;"html,geojson";834428;"";"";"";"";"";"1.00";1;1;1;28754;841301
+"6569b51ae64326786e4e8e1a";"Données climatologiques de base - quotidiennes";"donnees-climatologiques-de-base-quotidiennes";"";"https://www.data.gouv.fr/fr/datasets/donnees-climatologiques-de-base-quotidiennes/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Données climatologiques de toutes les stations de métropole et d'outre-mer depuis leur ouverture, pour tous les paramètres disponibles. Ces données ont subi un contrôle climatologique.
+
+### Informations techniques
+
+- Les données quotidiennes sont proposées en téléchargement, par département, et par lots de période au format csv compressé
+- L'ensemble des paramètres est fourni pour l'ensemble des stations météorologiques
+- Les heures sont exprimées en UTC pour la métropole et en FU pour l'outre-mer
+- La mise à jour des fichiers est annuelle pour les historiques avant 1950, mensuelles pour les fichiers de 1950 jusqu'à l'année -2 et quotidiennes pour les deux dernières années";"daily";"Licence Ouverte / Open Licence version 2.0";"1786-01-01";"2025-02-04";"fr:departement";"";False;"2023-12-01T10:27:38.839000";"2025-03-26T08:39:43.947000";"climatologique-base,climatologique-base-donnees-stations-mf,hvd,meteodatagouvfr,meteorologiques";False;626;624;"csv,csv.gz";536245;"";"";"";"";"";"1.00";2;7;9;16821;578621
+"6569b4a48a4161faec6b2779";"Données climatologiques de base - décadaires";"donnees-climatologiques-de-base-decadaires";"";"https://www.data.gouv.fr/fr/datasets/donnees-climatologiques-de-base-decadaires/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"## Présentation
+Ce jeu de données contient des fichiers contenant des informations climatologiques de base.
+
+## Informations techniques
+- Les données décadaires sont proposées ici en téléchargement, par départements et par lots de périodes au format csv compressé.
+- L'ensemble des paramètres météos est fourni pour l'ensemble des postes météorologiques.
+- Les heures sont exprimées en UTC pour la métropole et en FU pour l'outre-mer
+- Le fichier contenant la période finale depuis le 01/01/2020 est mis à jour régulièrement, chaque début de mois.
+- La mise à jour des fichiers est annuelle pour les historiques avant 1950, mensuelles pour les fichiers de 1950 jusqu'à l'année -2 et quotidiennes pour les deux dernières années
+";"daily";"Licence Ouverte / Open Licence version 2.0";"1786-01-01";"2025-02-04";"fr:departement";"";False;"2023-12-01T10:25:40.983000";"2025-03-26T07:25:09.495000";"climatologique-base,climatologique-base-donnees-stations-mf,hvd,meteodatagouvfr,meteorologiques";False;315;314;"csv,csv.gz";35874;"";"";"";"";"";"1.00";0;2;0;2368;42326
+"6569b4473bedf2e7abad3b72";"Données climatologiques de base - horaires";"donnees-climatologiques-de-base-horaires";"";"https://www.data.gouv.fr/fr/datasets/donnees-climatologiques-de-base-horaires/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Données climatologiques de toutes les stations de  métropole et outre-mer depuis leur ouverture, pour tous les paramètres disponibles. Les données ont subi un contrôle climatologique
+### 
+Informations techniques
+
+- Les données horaires sont proposées en téléchargement, par département et par lots de période au format csv compressé
+- L'ensemble des paramètres est fourni pour l'ensemble des stations météorologiques
+- Les heures sont exprimées en UTC pour la métropole et en FU pour l'outre-mer
+- La mise à jour des fichiers est annuelle pour les fichiers par décennie, mensuelles pour les fichiers de la décennie en cours jusqu'à l'année -2 et quotidiennes pour les deux dernières années";"daily";"Licence Ouverte / Open Licence version 2.0";"1770-01-01";"2025-02-04";"fr:departement";"";False;"2023-12-01T10:24:07.200000";"2025-03-26T07:52:08.229000";"climatologique-base,climatologique-base-donnees-stations-mf,hvd,meteodatagouvfr,meteorologiques";False;1453;1452;"csv,csv.gz";368812;"";"";"";"";"";"1.00";4;4;2;15617;381373
+"6569b3d7d193b4daf2b43edc";"Données climatologiques de base - mensuelles";"donnees-climatologiques-de-base-mensuelles";"";"https://www.data.gouv.fr/fr/datasets/donnees-climatologiques-de-base-mensuelles/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Données climatologiques de toutes les stations de métropole et d'outre-mer depuis leur ouverture, pour tous les paramètres disponibles. Les données ont subi un contrôle climatologique.
+
+### Informations techniques
+
+- Les données décadaires sont proposées en téléchargement, par département et par lots de période au format csv compressé
+- L'ensemble des paramètres est fourni pour l'ensemble des stations météorologiques
+- Les heures sont exprimées en UTC pour la métropole et en FU pour l'outre-mer
+- La mise à jour des fichiers est annuelle pour les historiques avant 1950, mensuelles pour les fichiers de 1950 jusqu'à l'année -2 et quotidiennes pour les deux dernières années";"daily";"Licence Ouverte / Open Licence version 2.0";"1786-01-01";"2025-02-04";"fr:departement";"";False;"2023-12-01T10:22:15.271000";"2025-03-26T08:06:12.577000";"climatologique-base,climatologique-base-donnees-stations-mf,hvd,meteodatagouvfr,meteorologiques";False;315;314;"csv,csv.gz";122832;"";"";"";"";"";"1.00";2;7;4;12454;137043
+"6569b2c4f1937611d4c8b1a3";"Données changement climatique - LSH (Longues Séries Homogénéisées)";"donnees-changement-climatique-lsh-longues-series-homogeneisees";"";"https://www.data.gouv.fr/fr/datasets/donnees-changement-climatique-lsh-longues-series-homogeneisees/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Séries mensuelles corrigées par homogénéisation statistique pour les paramètres températures minimales (TN), maximales (TX), insolations (IN) ou précipitations (RR).
+Elles sont disponibles pour un ensemble de stations météorologiques.
+
+### Informations techniques
+
+- Les données sont proposées en téléchargement, par paramètre, pour la métropole et l'outer-mer, au format csv compressé
+- L'information sur l'état du poste météorologique (ouvert ou fermé) à la date de constitution de ce jeu de fichiers de données est indiquée dans les fichiers
+- La mise à jour des fichiers est annuelle
+";"annual";"Licence Ouverte / Open Licence version 2.0";"1931-01-01";"2023-12-12";"other";"";False;"2023-12-01T10:17:40.397000";"2025-03-18T11:14:44.149000";"climatic-change,climatologique-changement-climatique,climatologique-changement-climatique-donnees-station,hvd,meteo,meteodatagouvfr,meteofrance,meteorologiques";False;14;7;"csv,zip";11276;"";"";"";"";"";"1.00";1;7;1;3372;11279
+"6569b27598256cc583c917a7";"Données changement climatique - SIM quotidienne";"donnees-changement-climatique-sim-quotidienne";"";"https://www.data.gouv.fr/fr/datasets/donnees-changement-climatique-sim-quotidienne/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Données quotidiennes du modèle de simulation des schémas de surface (Safran - Isba).
+Paramètres atmosphériques de surface et bilans des sols en points de grille issus de l'analyse de modèle simulant les flux d’eau et d’énergie à la surface terrestre.
+
+### Informations techniques
+
+- Les données sont proposées en téléchargement, par lots de périodes de 1 à 10 ans, pour la métropole, au format csv compressé
+- L'ensemble des paramètres météos est fourni pour l'ensemble des points de la grille Safran.
+- La résolution est de 0.072° (environ 8km)
+- La mise à jour des fichiers est mensuelle pour la décennie en cours et quotidienne pour la dernière période (depuis le mois précédent)";"daily";"Licence Ouverte / Open Licence version 2.0";"1958-01-01";"2025-02-04";"other";"";False;"2023-12-01T10:16:21.930000";"2025-03-26T09:37:03.736000";"climatologique-changement-climatique,climatologique-changement-climatique-donnees-spatialisees,hvd,meteodatagouvfr,meteorologiques";False;20;9;"csv.gz,sbx,shp,pdf,shx,sbn,kml,prj,csv,odt";22921;"";"";"";"";"";"1.00";0;9;1;35176;28369
+"6569b00fe24fc9e1e482f74e";"Données changement climatique - SQR (Séries Quotidiennes de Référence)";"donnees-changement-climatique-sqr-series-quotidiennes-de-reference";"";"https://www.data.gouv.fr/fr/datasets/donnees-changement-climatique-sqr-series-quotidiennes-de-reference/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Les Séries Quotidiennes de Référence (SQR) sont une sélection de données climatologiques quotidiennes pour une période donnée d'une station météorologique. La constitution des SQR s'appuie sur les résultats de l'homogénéisation pour obtenir les périodes supposées pour une série de données.
+
+Cette sélection est basée sur diverses informations dont les suivantes :
+
+- ruptures d'homogénéité dans la série mensuelle et amplitude des corrections appliquées à la série mensuelle pour obtenir une série mensuelle homogénéisée,
+- taux de données manquantes sur la ""période  SQR""
+- déplacements successifs du poste de mesure (sur l'horizontale et en altitude)
+- continuité d'un même numéro de référence de la station de mesures (alors que les données de plusieurs stations peuvent être aboutées pour constituer la série mensuelle homogénéisée) 
+
+Ces données ont subi un contrôle climatologique. 
+ 
+### Informations techniques
+
+- Les données sont proposées en téléchargement, pour la métropole et l'outre-mer, au format csv compressé
+- Les paramètres fournis sont : précipitations RR, températures minimales TN et températures maximales TX
+- L'informationsur l'état du poste météorologique (ouvert ou fermé) à la date de constutution de ce jeu de fichiers de donnée est indiquée dans les fichiers
+- Les SQR fournies débutent au plus tard en 1991
+- La mise à jour des fichiers est annuelle";"punctual";"Licence Ouverte / Open Licence version 2.0";"1976-01-01";"2023-12-12";"other";"";False;"2023-12-01T10:06:07.229000";"2025-03-18T11:20:23.699000";"climat,climatic-change,climatologique-changement-climatique,climatologique-changement-climatique-donnees-station,hvd,meteo,meteodatagouvfr,meteofrance,meteorologiques";False;12;6;"csv,zip";6498;"";"";"";"";"";"1.00";0;1;0;1613;6275
+"6569af36ba0c3d2f9d4bf98c";"Données climatologiques de base - décadaires agro";"donnees-climatologiques-de-base-decadaires-agro";"";"https://www.data.gouv.fr/fr/datasets/donnees-climatologiques-de-base-decadaires-agro/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### Présentation
+
+Données climatologiques, mesurées ou calculées, des stations de métropole et d'outre-mer depuis leur ouverture, pour les paramètres agrométéorologiques : hauteur des précipitations, vitesse moyenne du vent, moyenne des températures minimales et maximales, tension de vapeur moyenne, cumul du rayonnement global, durée d'insolation et ETP Penman.
+
+Ces données ont subi un contrôle climatologique.
+
+### Informations techniques
+
+- Les données sont proposées en téléchargement, par département et par lots de période au format csv compressé
+- L'ensemble des paramètres agrométéorologiques est fourni pour l'ensemble des stations météorologiques
+- La mise à jour des fichiers est annuelle pour les historiques avant 1950, mensuelles pour les fichiers de 1950 jusqu'à l'année -2 et quotidiennes pour les deux dernières années";"daily";"Licence Ouverte / Open Licence version 2.0";"1786-01-01";"2025-02-04";"fr:departement";"";False;"2023-12-01T10:02:30.251000";"2025-03-26T07:33:06.832000";"climatologique-base,climatologique-base-donnees-stations-mf,meteodatagouvfr";False;307;306;"csv,csv.gz";28165;"";"";"";"";"";"1.00";0;2;0;2814;31382
+"6569ad61106d1679c93cdf77";"Données climatologiques de base -  6 minutes";"donnees-climatologiques-de-base-6-minutes";"";"https://www.data.gouv.fr/fr/datasets/donnees-climatologiques-de-base-6-minutes/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"### **Présentation**
+
+Données climatologiques des stations de métropole et d'outre-mer pour le paramètre précipitation au pas temps 6 minutes. L'accès à toute la profondeur de la base de données est possible (depuis juillet 2005 au plus tôt).
+
+### **Informations techniques**
+
+- Les données 6mn de précipitations sont proposées en téléchargement, par département et par lots de période au format csv compressé
+- La mise à jour des fichiers est annuelle pour les fichiers par décennie, mensuelles pour les fichiers de la décennie en cours jusqu'à l'année -2 et quotidiennes pour les deux dernières années
+- Les heures sont exprimées en UTC pour la métropole et en FU pour l'outre-mer
+";"daily";"Licence Ouverte / Open Licence version 2.0";"2000-01-01";"2025-02-04";"fr:departement";"";False;"2023-12-01T09:54:41.642000";"2025-03-26T08:22:31.267000";"climatologique-base,climatologique-base-donnees-stations-mf,hvd,meteodatagouvfr,meteorologiques";False;420;419;"csv,csv.gz";52639;"";"";"";"";"";"1.00";1;2;0;2473;53249
+"60587a07ce378266111193e2";"Données mensuelles d'indice d'humidité des sols pour le dispositif  ""catastrophes naturelles""";"donnees-mensuelles-dindice-dhumidite-des-sols-pour-le-dispositif-catastrophes-naturelles";" SWI uniforme";"https://www.data.gouv.fr/fr/datasets/donnees-mensuelles-dindice-dhumidite-des-sols-pour-le-dispositif-catastrophes-naturelles/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Le SWI (de l’anglais Soil Wetness Index ) est un indice d’humidité des sols documenté dans la littérature scientifique. Il représente, sur une profondeur d’environ deux mètres, l’état de la réserve en eau du sol par rapport à la réserve utile (eau disponible pour l’alimentation des plantes).";"unknown";"Licence Ouverte / Open Licence version 2.0";"";"";"other";"France métropolitaine";False;"2021-03-22T12:05:43.464000";"2023-05-23T13:22:10.602000";"humidite-du-sol,meteo-france,secheresse";False;1;1;"csv";2899;"";"";"";"";"";"0.56";0;1;2;13267;2923
+"6058688d9416a64d9a1d9c97";"Prévision de Lame d'eau issue du  modèle de Prévision Immédiate Agrégée Fusionnée";"prevision-de-lame-deau-issue-du-modele-de-prevision-immediate-agregee-fusionnee";"PIAF";"https://www.data.gouv.fr/fr/datasets/prevision-de-lame-deau-issue-du-modele-de-prevision-immediate-agregee-fusionnee/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Champs de prévision de précipitation en points de grilles issus du modèle atmosphérique PIAF sur la métropole, à haute fréquence de mise à jour, de pas de temps et de résolution fins sur les 3 heures à venir";"unknown";"Licence Ouverte / Open Licence version 2.0";"";"";"other";"France métropolitaine";False;"2021-03-22T10:51:09.183000";"2023-12-11T13:25:42.295000";"france-metropolitaine,meteo,meteo-france,precipitations,previsions";False;1;1;"";332;"";"";"";"";"";"0.44";0;0;0;2343;316
+"605863fcc1e4c8d9841a5f61";"Vigilance météorologique Outre Mer";"vigilance-meteorologique-outre-mer";"";"https://www.data.gouv.fr/fr/datasets/vigilance-meteorologique-outre-mer/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"L’information mise à disposition de l’usager est constituée d’un fichier unique zippé qui est mis à jour chaque minute et qui contient l’ensemble des fichiers constituant le flux vigilance Outre Mer. 
+Les fichiers des données de l’état de la vigilance sont au format PDF.
+Suivant les départements ou territoires: 
+- Les bulletins et cartes sont réunis dans un même fichier ou forment 2 fichiers séparés.
+- Il existe un fichier par type de phénomène suivi par la vigilance ou un fichier quel que soit le paramètre.
+- Il y a une production systématique quotidienne ou une production selon les conditions météorologiques
+- Le suivi cyclonique est intégré ou pas à la vigilance.
+Les particularités propres à chaque département ou territoire sont précisées dans le descriptif détaillé mis à disposition.  
+";"continuous";"Licence Ouverte / Open Licence version 2.0";"";"";"fr:collectivite";"";False;"2021-03-22T10:31:40.566000";"2023-12-11T10:21:43.277000";"meteo,securite-civile,vigilance";False;1;1;"";533;"";"";"";"";"";"0.67";1;1;2;3071;510
+"5fa2c828c44c7c694058ba4a";"Inventaire des archives du climat conservées dans les centres de la Direction InterRégionale de Nouvelle-Calédonie";"inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-de-nouvelle-caledonie";"ArClim";"https://www.data.gouv.fr/fr/datasets/inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-de-nouvelle-caledonie/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture, au format xml, des inventaires des fonds d'archives du climat de la Direction Interrégionale de Nouvelle-Calédonie.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"2023-12-12";"fr:collectivite";"Wallis-et-Futuna,Nouvelle-Calédonie,Vanuatu";False;"2020-11-04T16:26:32.714000";"2024-12-18T13:14:53.876000";"archive,archives,climat,climatologie,mesures,meteofrance,meteorologie,nouvelle-caledonie,observations,precipitations,temperature,wallis-et-futuna";False;2;2;"xml";110;"";"";"";"";"";"1.00";0;0;0;2284;107
+"5fa2be36c8dd85ce187b45f0";"Inventaire des archives du climat conservées dans les centre de la Direction InterRégionale de Polynésie";"inventaire-des-archives-du-climat-conservees-dans-les-centre-de-la-direction-interregionale-de-polynesie";"ArClim";"https://www.data.gouv.fr/fr/datasets/inventaire-des-archives-du-climat-conservees-dans-les-centre-de-la-direction-interregionale-de-polynesie/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture, au format xml, des inventaires des fonds d'archives du climat de la Direction Interrégionale de Polynésie.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"2020-11-01";"2020-11-12";"fr:collectivite";"Polynésie française";False;"2020-11-04T15:44:06.830000";"2024-12-17T17:31:36.431000";"archive,archives,climat,climatologie,mesures,meteofrance,meteorologie,observations,polynesie-francaise,precipitations,temperature";False;8;8;"xml";294;"";"";"";"";"";"1.00";0;0;0;2248;277
+"5dfb22926f44413ada2c54b4";"DRIAS - projections climatiques pour l'adaptation de nos sociétés ";"drias-projections-climatiques-pour-ladaptation-de-nos-societes";"";"https://www.data.gouv.fr/fr/datasets/drias-projections-climatiques-pour-ladaptation-de-nos-societes/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"
+
+DRIAS a pour vocation de mettre à disposition des projections climatiques régionalisées réalisées dans les laboratoires français de modélisation du climat (IPSL, CERFACS, CNRM-GAME). Les informations climatiques sont délivrées sous différentes formes graphiques ou numériques.
+
+Driasles futurs du climat propose une démarche d’appropriation en trois étapes : l’Espace Accompagnement présente un guide d’utilisation et de bonnes pratiques pour les projections climatiques. L’Espace Découverte permet de visualiser et géolocaliser les projections climatiques au plus près de chez vous, en métropole comme outre-mer : vous avez accès à toutes les informations fournies par les modèles de climat, pour les scénarios les plus récents (RCP) présentés dans le dernier rapport du GIEC. Enfin, l’Espace Données et Produits vous permet de télécharger ces paramètres et indices climatiques sous forme de données numériques.
+";"annual";"Licence Ouverte / Open Licence";"";"";"";"";False;"2019-12-19T08:11:14.160000";"2023-12-12T10:40:41.347000";"changement-climatique,climat,modelisation-numerique,scenarios-climatiques";False;1;1;"html";1899;"";"";"";"";"";"0.67";0;8;0;7074;1908
+"5dfb16f76f4441251669a71e";"Bulletin Prévision Saisonnière";"bulletin-prevision-saisonniere";"";"https://www.data.gouv.fr/fr/datasets/bulletin-prevision-saisonniere/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Synthèse des prévisions pour le trimestre à venir, pour la France. Les résultats sont exprimés en trois scénarios : «supérieur à la normale », « proche de la normale » et « inférieur à la normale ».
+
+Métropole et Outre-mer - Fréquence : mensuelle - Format : PDF";"quarterly";"Licence Ouverte / Open Licence";"";"";"other";"Monde";False;"2019-12-19T07:21:43.487000";"2019-12-19T07:23:07.516000";"analyses,modelisation-numerique,precipitations,previsions-meteo,previsions-saisonnieres,temperature";False;1;1;"pdf";367;"";"";"";"";"";"0.78";0;0;0;2819;334
+"5dfb15a46f444120b1aac1f9";"Modèle de surcote océanique - Séries temporelles ponctuelles";"modele-de-surcote-oceanique-series-temporelles-ponctuelles";"";"https://www.data.gouv.fr/fr/datasets/modele-de-surcote-oceanique-series-temporelles-ponctuelles/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Résultat d'un modèle numérique de prévision de la surcote océanique forcé par un modèle atmosphérique et intégrant une simulation de la marée. Calculs sur une grille curvilinéaire de résolution variable, d'environ 1km le long des côtes françaises. Paramètres fournis : surcote instantanée, surcote maximale sur les 3 dernières heures, surcote maximale sur les 24 heures précédentes (toutes les 24h).
+
+Sorties sous forme de séries temporelles à différents ports et points d'intérêt côtiers.
+
+Europe - Fréquence : 6h - Format : ASCII - Résolution de calcul de 1km le long des côtes.
+";"continuous";"Licence Ouverte / Open Licence";"";"";"other";"France";False;"2019-12-19T07:16:04.378000";"2019-12-19T07:16:53.384000";"analyse,maree,modelisation-numerique,oceans,prescription,previsions-meteo,surcotes";False;1;1;"ascii";408;"";"";"";"";"";"0.89";0;0;0;2459;372
+"5dfb14436f44411b81bf401b";"Fiche climatologique des stations de Météo France";"fiche-climatologique-des-stations-de-meteo-france";"";"https://www.data.gouv.fr/fr/datasets/fiche-climatologique-des-stations-de-meteo-france/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Fiche synthétique contenant les normales et les records d'une station.
+
+ 
+
+Il existe deux types de fiches climatologiques :
+
+    Précipitations-températures
+    Complètes : précipitations, température et au moins un autre paramètre (vent, insolation, rayonnement global, ou l'ensemble des occurrences).
+";"annual";"Licence Ouverte / Open Licence";"";"";"other";"France";False;"2019-12-19T07:10:11.329000";"2019-12-19T07:11:11.514000";"climatologie,climats,moyenne,normales,reccord,station-meteo,temperature";False;1;1;"pfd";2789;"";"";"";"";"";"0.89";0;1;3;8253;2795
+"5dfa5d126f444110504a82eb";"modèle de prévision d'ensemble AROME";"modele-de-prevision-densemble-arome";"";"https://www.data.gouv.fr/fr/datasets/modele-de-prevision-densemble-arome/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Champs de prévision en points de grille régulière sur le domaine métropole issus du modèle de prévision à aire limitée AROME. Données constituées de l'ensemble des 12 runs de prévision déterministe.
+
+
+Paramètres, niveaux et échéances jusqu'à H+45 h maximum par pas de1 h.
+
+Métropole - Fréquence : 12 h - Format : GRIB2/ASCII - Résolution : 0,025°";"continuous";"Licence Ouverte / Open Licence";"";"";"";"";False;"2019-12-18T18:08:34.098000";"2019-12-18T18:09:20.982000";"analyse,arome,atmospherique,ensembles,modele-numerique-densemble,pression,prevision,previsions-meteo,temperature,vent";False;1;1;"grib2";505;"";"";"";"";"";"0.78";0;2;0;2799;455
+"5dfa5ba26f44410d54682861";"Modèle global de chimie atmosphérique et de transport";"modele-global-de-chimie-atmospherique-et-de-transport";"";"https://www.data.gouv.fr/fr/datasets/modele-global-de-chimie-atmospherique-et-de-transport/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Résultats du modèle francais de prévision de composition chimique et de transports atmosphériques  (MOCAGE Qualité de l'Air) sous forme de champs de prévisions en points de grille pour 120 espèces gazeuses (Ozone, CO, CO2, U.V. etc.) et 4 aérosols (carbonés, désertiques, anthropiques et marins). Paramètres, niveaux, échéances et domaines paramétrables selon diverses résolutions et échéances de 12 h à 108 h par pas de 1h, 3h ou 6h sur le monde (forçage par un modéle global), ou la France (forçage par un modéle à aire limité).
+
+ 
+
+Monde - Fréquence : 24 h - Format : GRIB - Résolution : 1,0° sur le monde / 0,5° sur l'Europe / 0,1° sur la France";"continuous";"Licence Ouverte / Open Licence";"";"";"";"";False;"2019-12-18T18:02:26.639000";"2019-12-18T18:03:12.471000";"atmospherique,chimie,environnement,mocage,modelisation-numerique,polluant-atmospherique,previsions-meteo";False;1;1;"";307;"";"";"";"";"";"0.67";0;0;0;1869;281
+"5dfa5a996f44410a947a66d1";"modèle de prévision d'ensemble ARPEGE";"modele-de-prevision-densemble-arpege";"";"https://www.data.gouv.fr/fr/datasets/modele-de-prevision-densemble-arpege/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Champs de prévision en points de grille régulière sur différents domaines géographiques issus du modèle de prévision atmosphérique global français Arpege. Données probabilistes constituées de l'ensemble des 35 runs de prévision déterministe à courte échéance. 
+Paramètres, niveaux, échéances et sous-domaines paramétrables selon diverses résolutions et échéances jusqu'à H+108 h maximum par pas de 3 ou 6 h selon le domaine géographique.
+
+ 
+
+Monde - Fréquence : 12 h - Format : GRIB/ASCII - Résolution : 0,5° sur le monde, 0,1° sur l'Europe/Atlantique";"continuous";"Licence Ouverte / Open Licence";"";"";"";"";False;"2019-12-18T17:58:01.074000";"2024-12-13T10:00:46.203000";"analyses,arpege,humidite,hvd,meteorologiques,modele-numerique-densemble,modelisation-numerique,pression,prevision,temperature,vent";False;1;1;"grib2";370;"";"";"";"";"";"0.78";0;1;0;2682;345
+"5dfa57b36f44410378084a2f";"Modèle atmosphérique à aire limitée à haute résolution et haute fréquence sur la métropole ";"modele-atmospherique-a-aire-limitee-a-haute-resolution-et-haute-frequence-sur-la-metropole";"";"https://www.data.gouv.fr/fr/datasets/modele-atmospherique-a-aire-limitee-a-haute-resolution-et-haute-frequence-sur-la-metropole/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Modèle opérationnel AROME pour la prévision immédiate (AROME PI)
+
+Champs d'analyse et de prévisions en points de grilles, issus du modèle atmosphérique AROME sur la métropole, à haute cadence d'exécution et à échéances très fines.
+
+ 
+
+Domaine du modèle: métropole
+
+Echéances jusqu'à 23h par pas de 15 min.
+
+24 RUN par jour
+
+Résolution 0.1° (env 1.3 km) et  0.25° (env. 2,5 km)
+
+Format disponible: GRIB";"continuous";"Licence Ouverte / Open Licence";"";"";"";"";False;"2019-12-18T17:45:39.357000";"2019-12-18T17:49:06.067000";"analyses,atmospherique,humidite,meteo,modelisation-numerique,previsions-meteo,temperature,vent";False;1;1;"grib2";441;"";"";"";"";"";"0.78";0;0;0;2457;419
+"5dfa560c6f44417e5d601a3e";"Bulletin d'estimation du risque d'avalanche";"bulletin-destimation-du-risque-davalanche";"";"https://www.data.gouv.fr/fr/datasets/bulletin-destimation-du-risque-davalanche/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Bulletins d'estimation du risque d'avalanche, aux formats xml et pdf, pour les massifs des Alpes, des Pyrénées et de la Corse.
+
+ 
+
+Fréquence de production: quotidienne a minima.
+
+Format: Pdf ou Xml
+
+Archive disponible à partir de mars 2016";"daily";"Licence Ouverte / Open Licence version 2.0";"";"";"country";"France";False;"2019-12-18T17:38:36.188000";"2023-10-27T13:06:44.664000";"alpes,avalanches,bulletins,corse,meteo,modelisation-numerique,neige,previsions-meteo,pyrenees,risques";False;1;0;"html";1246;"";"";"";"";"";"0.78";0;1;1;7350;1243
+"5dfa542c6f444179ebfcad93";"modèle de surcote océanique";"modele-de-surcote-oceanique-1";"";"https://www.data.gouv.fr/fr/datasets/modele-de-surcote-oceanique-1/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Résultat d'un modèle numérique de prévision de la surcote océanique forçé par un modèle atmosphérique et intégrant une simulation de la marée. Calculs sur une grille curvilinéaire de résolution variable, d'environ 1km le long des côtes françaises. Paramètres fournis : surcote instantanée, surcote maximale sur les 3 dernières heures, surcote maximale sur les 24 heures précédentes (toutes les 24h).
+
+Sorties sous forme de champs 2D de prévisions jusqu'à 102 heures maximum d'échéance sur les domaines Manche / proche Atlantique / Mer du Nord (43°N/62°N/9°W/10°E), et Méditerranée (35°N/45°N/6W/17E).
+
+Europe - Fréquence : 3h - Format : GRIB2 - Résolution : 0.04°.";"continuous";"Licence Ouverte / Open Licence";"";"";"other";"Monde";False;"2019-12-18T17:30:36.823000";"2019-12-18T17:31:58.531000";"analyses,meteo,modelisation-numerique,previsions-meteo,surcotes,vagues";False;1;1;"grib2";263;"";"";"";"";"";"0.89";0;0;0;2092;231
+"5dfa539b6f444178b08fb666";"Modèle de surcôte océanique";"modele-de-surcote-oceanique";"";"https://www.data.gouv.fr/fr/datasets/modele-de-surcote-oceanique/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Résultat d'un modèle numérique de prévision de la surcote océanique forçé par un modèle atmosphérique et intégrant une simulation de la marée. Calculs sur une grille curvilinéaire de résolution variable, d'environ 1km le long des côtes françaises. Paramètres fournis : surcote instantanée, surcote maximale sur les 3 dernières heures, surcote maximale sur les 24 heures précédentes (toutes les 24h).
+
+Sorties sous forme de champs 2D de prévisions jusqu'à 102 heures maximum d'échéance sur les domaines Manche / proche Atlantique / Mer du Nord (43°N/62°N/9°W/10°E), et Méditerranée (35°N/45°N/6W/17E).
+
+Europe - Fréquence : 3h - Format : GRIB2 - Résolution : 0.04°.";"continuous";"Licence Ouverte / Open Licence";"";"";"other";"Monde";False;"2019-12-18T17:28:11.648000";"2019-12-19T07:48:02.609000";"analyse,meteo,modelisation-numerique,previsions-meteo,surcotes,vagues";False;1;0;"grib2";337;"";"";"";"";"";"0.89";0;0;0;2264;313
+"5dfa51a96f44417349e5340a";"Données de modèle de vagues";"donnees-de-modele-de-vagues";"";"https://www.data.gouv.fr/fr/datasets/donnees-de-modele-de-vagues/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Résultats du modèle de prévision de vagues (MFWAM) sous forme de champs d'analyse et de prévision en points de grille. Hauteur, direction et période de la mer du vent, de la mer totale et des houles primaire, secondaire et totale, échéances jusqu'à 120 h.
+
+Domaine: Monde
+
+Fréquence : 3h
+
+Résolution : de 0,025° à 0,5° selon le modèle atmosphérique de couplage
+
+Format : GRIB V2 ou GEOTIFF pour les données en ligne, GRIB 1 ou 2 pour les données hors ligne.
+
+L'utilisation du format GRIB V2 nécessite un outil spécifique (par exemple, celui du Centre Européen de Prévision à Moyenne Echéance).
+
+Données libres d'accès via le fomulaire ci-après.";"continuous";"Licence Ouverte / Open Licence";"";"";"other";"Monde";False;"2019-12-18T17:19:53.186000";"2019-12-18T17:24:15.427000";"analyse,houle,mer-du-vent,meteo,modelisation-numerique,previsions-meteo,vagues";False;1;0;"grib2";756;"";"";"";"";"";"0.89";0;0;0;4349;752
+"5df889e46f444149f07da73e";"Données de modèle de vagues Haute Résolution";"donnees-de-modele-de-vagues-haute-resolution";"";"https://www.data.gouv.fr/fr/datasets/donnees-de-modele-de-vagues-haute-resolution/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Résultats du modèle de prévision de vagues haute résolution (WW3) sur une grille destructurée, forcé par les vents du modèle Arpege ou Arome.
+
+Hauteur, direction et période des vagues de la mer totale, de la mer du vent et des houles primaire et secondaire, échéances jusqu'à 102 h. Les analyses sur les 6 dernières heures sont aussi fournies.
+
+Atlantique et Méditerranée - Fréquence : 3h - Format : Netcdf - Résolution variable de 200m à 5km.
+
+Données libres d'accès via le formulaire ci-après, et en visualisation WMS.
+
+Pour la visualisation via les webservices, les 2 services MF-NWP-HIGHRES-WW3ARP-001-ATL-WMS et MF-NWP-HIGHRES-WW3ARP-001-MED-WMS sont synonymes, la différenciation se fait via le domaine requêté via le paramètre BBOX.";"unknown";"Licence Ouverte / Open Licence version 2.0";"";"";"other";"Monde";False;"2019-12-17T08:55:16.352000";"2023-01-26T13:47:03.535000";"analyses,houle,mer-du-vent,meteo,modelisation-numerique,previsions-meteo,vagues";False;1;0;"netcdf";476;"";"";"";"";"";"0.67";0;0;0;2625;447
+"5b87f1568b4c417e46a85e4a";"Documents d'archives du climat numérisés : tableaux climatologiques mensuels, résumant les observations météorologiques quotidiennes de France métropolitaine ";"documents-darchives-du-climat-numerises-tableaux-climatologiques-mensuels-resumant-les-observations-meteorologiques-quotidiennes-de-france-metropolitaine";"ArClim";"https://www.data.gouv.fr/fr/datasets/documents-darchives-du-climat-numerises-tableaux-climatologiques-mensuels-resumant-les-observations-meteorologiques-quotidiennes-de-france-metropolitaine/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture de fichiers au format pdf ou jpeg, obtenus à partir de la numérisation, de tableaux climatologiques mensuels résumant les observations météorologiques relevées quotidiennement en France métropolitaine.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, cote, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1945-01-01";"1945-12-31";"fr:commune";"France métropolitaine";False;"2018-08-30T15:29:58.830000";"2024-12-18T15:07:33.175000";"archive,archives,climat,climatologie,mesure,mesures,meteo,meteofrance,meteorologie,observations,precipitations,temperature";False;45;45;"jpg,pdf";1039;"";"";"";"";"";"1.00";0;0;0;3629;1026
+"5b7ec60c8b4c410775324e55";"Documents d'archives du climat numérisés : sondages aérologiques (observations en altitude) de France métropolitaine";"documents-darchives-du-climat-numerises-sondages-aerologiques-observations-en-altitude-de-france-metropolitaine";"ArClim";"https://www.data.gouv.fr/fr/datasets/documents-darchives-du-climat-numerises-sondages-aerologiques-observations-en-altitude-de-france-metropolitaine/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture de fichiers au format pdf ou jpeg, obtenus par la numérisation, de documents d'observations météorologiques en altitude relevées en France métropolitaine.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"1999-12-31";"fr:commune";"France métropolitaine";False;"2018-08-23T16:34:52.606000";"2024-12-18T13:27:59.374000";"archive,archives,climat,climatologie,mesures,meteo,meteofrance,meteorologie,observations,vent";False;65;65;"jpg,pdf";889;"";"";"";"";"";"1.00";0;0;0;1942;805
+"5b7eaa3d8b4c415a11a8ca82";"Documents d'archives du climat numérisés : carnets d'observations météorologiques infra-quotidiennes  de France métropolitaine ";"documents-darchives-du-climat-numerises-carnets-dobservations-meteorologiques-infra-quotidiennes-de-france-metropolitaine";"ArClim";"https://www.data.gouv.fr/fr/datasets/documents-darchives-du-climat-numerises-carnets-dobservations-meteorologiques-infra-quotidiennes-de-france-metropolitaine/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture de fichiers pdf, obtenus par la numérisation, de documents d'observations météorologiques infra-quotidiennes (à des heures variables selon les documents) de France métropolitaine.
+Les carnets d'observation étaient les documents servant de base au travail des observateurs professionnels : on y trouve les valeurs de tous les paramètres mesurés, ainsi que des remarques sur l'état de l'atmosphère ou de la végétation.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, cote, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"1999-12-31";"fr:commune";"France métropolitaine";False;"2018-08-23T14:36:13.355000";"2024-12-18T15:06:49.389000";"archive,archives,climat,climatologie,mesures,meteo,meteofrance,meteorologie,observations,precipitations,temperature";False;1;1;"pdf";181;"";"";"";"";"";"0.89";0;0;0;2741;180
+"5b7bbf598b4c412fb2ff2282";"Documents d'archives du climat numérisés : observations météorologiques de surface et d'altitude relevées en Martinique";"documents-darchives-du-climat-numerises-observations-meteorologiques-de-surface-et-daltitude-relevees-en-martinique";"ArClim";"https://www.data.gouv.fr/fr/datasets/documents-darchives-du-climat-numerises-observations-meteorologiques-de-surface-et-daltitude-relevees-en-martinique/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture de fichiers au format pdf, obtenus par la numérisation, de documents d'observations météorologiques, de surface et d'altitude, relevées en Martinique.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1939-01-01";"1939-12-31";"fr:region";"Martinique";False;"2018-08-21T09:29:29.015000";"2024-12-18T13:23:54.485000";"antilles,archive,archives,climat,climatologie,guadeloupe,guyane,martinique,mesures,meteo,meteofrance,meteorologie,observations,precipitations,temperature";False;1;1;"pdf";77;"";"";"";"";"";"0.78";0;0;0;2433;75
+"5b7a8d52634f41121f319b4c";"Documents d'archives du climat numérisés : relevés d'observations météorologiques quotidiennes de France métropolitaine ";"documents-darchives-du-climat-numerises-releves-dobservations-meteorologiques-quotidiennes-de-france-metropolitaine";"ArClim";"https://www.data.gouv.fr/fr/datasets/documents-darchives-du-climat-numerises-releves-dobservations-meteorologiques-quotidiennes-de-france-metropolitaine/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture de fichiers pdf ou jpeg, contenant des comptes rendus quotidiens d'observations météorologiques (CRQ) numérisés, regroupés par mois. Un compte rendu quotidien contient 4 pages décrivant les différentes observations faites sur une journée.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web : **http://archives-climat.fr
+";"unknown";"License Not Specified";"1905-01-01";"1999-12-31";"fr:commune";"France métropolitaine";False;"2018-08-20T11:43:46.156000";"2024-12-18T08:05:54.717000";"archive,archives,climat,climatologie,mesures,meteo,meteofrance,meteorologie,observations,precipitations,temperature";False;551;551;"jpg,pdf";8334;"";"";"";"";"";"0.78";0;1;0;9887;8346
+"5b768e8b634f414cabe6f443";"Inventaire des archives du climat conservées à la Direction de la Climatologie et des Services Climatiques à Toulouse";"inventaire-des-archives-du-climat-conservees-a-la-direction-de-la-climatologie-et-des-services-climatiques-a-toulouse";"ArClim";"https://www.data.gouv.fr/fr/datasets/inventaire-des-archives-du-climat-conservees-a-la-direction-de-la-climatologie-et-des-services-climatiques-a-toulouse/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture, au format xml, des inventaires des fonds d'archives du climat conservés à la Direction de la Climatologie et des Services Climatiques (DCSC) de Toulouse.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d'inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"1999-12-31";"country-group";"Monde";False;"2018-08-17T10:59:55.583000";"2024-12-18T10:47:26.407000";"archive,archives,climat,climatologie,mesure,mesures,meteo,meteofrance,meteorologie,observation,observations,precipitations,temperature,temperatures";False;31;31;"xml";1104;"";"";"";"";"";"1.00";0;0;0;3509;1092
+"5b7679e8634f412ed6d322f7";"Inventaire des archives du climat conservées dans le Centre des Archives Intermédiaires de Trappes (CAIT)";"inventaire-des-archives-du-climat-conservees-dans-le-centre-des-archives-intermediaires-de-trappes-cait";"ArClim";"https://www.data.gouv.fr/fr/datasets/inventaire-des-archives-du-climat-conservees-dans-le-centre-des-archives-intermediaires-de-trappes-cait/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture, au format xml, des inventaires des fonds d'archives du climat conservés au Centre des Archives Intermédiaires de Trappes (CAIT).**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"1999-12-31";"fr:commune";"France métropolitaine";False;"2018-08-17T09:31:52.178000";"2024-12-17T16:33:16.172000";"archive,archives,climat,climatologie,mesures,meteo,meteofrance,meteorologie,observations,precipitations,temperature";False;41;41;"xml";916;"";"";"";"";"";"1.00";0;0;0;2543;908
+"5b758e2f634f413cca43980b";"Inventaire des archives du climat conservées dans les centres de la Direction InterRégionale Océan Indien (La Réunion)";"inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-ocean-indien-la-reunion";"ArClim";"https://www.data.gouv.fr/fr/datasets/inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-ocean-indien-la-reunion/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture, au format xml, des inventaires des fonds d'archives du climat de la Direction Interrégionale Océan Indien.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"1999-12-31";"fr:region";"La Réunion";False;"2018-08-16T16:46:07.404000";"2024-12-18T13:26:31.339000";"archive,archives,climat,climatologie,mesures,meteo,meteofrance,meteorologie,observations,ocean-indien,precipitations,temperature";False;1;1;"xml";63;"";"";"";"";"";"1.00";0;0;0;1806;61
+"5b758ce3634f413761a379d6";"Inventaire des archives du climat conservées dans les centres de la Direction InterRégionale Antilles-Guyane";"inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-antilles-guyane";"ArClim";"https://www.data.gouv.fr/fr/datasets/inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-antilles-guyane/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture, au format xml, des inventaires des fonds d'archives du climat de la Direction Interrégionale Antilles-Guyane, couvrant les départements de Guadeloupe, Guyane et Martinique.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"1999-12-31";"fr:region";"Martinique,Guyane,Guadeloupe";False;"2018-08-16T16:40:35.196000";"2024-12-18T13:18:38.768000";"antilles,archive,archives,climat,climatologie,guadeloupe,guyane,martinique,mesures,meteo,meteofrance,meteorologie,observations,precipitations,temperature";False;3;3;"xml";173;"";"";"";"";"";"1.00";0;0;0;2036;164
+"5b7582328b4c415ebd98fc7c";"Inventaire des archives du climat conservées dans les centres de la Direction InterRégionale Sud-Ouest";"inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-sud-ouest";"ArClim";"https://www.data.gouv.fr/fr/datasets/inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-sud-ouest/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture, au format xml, des inventaires des fonds d'archives du climat de la Direction Interrégionale Sud-Ouest.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"1999-12-31";"fr:commune";"France métropolitaine";False;"2018-08-16T15:54:58.576000";"2024-12-18T13:11:16.189000";"archive,archives,climat,climatologie,mesure,mesures,meteo,meteofrance,meteorologie,observations,precipitations,temperature";False;22;22;"xml";633;"";"";"";"";"";"1.00";0;0;0;2341;573
+"5b75675a8b4c413397bc138c";"Inventaire des archives du climat conservées dans les centres de la Direction InterRégionale Sud-Est";"inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-sud-est";"ArClim";"https://www.data.gouv.fr/fr/datasets/inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-sud-est/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture, au format xml, des inventaires des fonds d'archives du climat de la Direction Interrégionale Sud-Est.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"1999-12-31";"fr:commune";"France métropolitaine";False;"2018-08-16T14:00:26.372000";"2024-12-18T11:09:03.545000";"archive,archives,climat,climatologie,mesures,meteo,meteofrance,meteorologie,observations,precipitations,temperature";False;29;29;"xml";687;"";"";"";"";"";"1.00";0;0;0;2935;684
+"5b7532338b4c415e9f025959";"Inventaire des archives du climat conservées dans les centres de la Direction InterRégionale Ouest";"inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-ouest";"ArClim";"https://www.data.gouv.fr/fr/datasets/inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-ouest/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture, au format xml, des inventaires des fonds d'archives du climat de la Direction Interrégionale Ouest.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"1999-12-31";"fr:commune";"France métropolitaine";False;"2018-08-16T10:13:39.232000";"2024-12-18T10:00:38.926000";"archive,archives,climat,climatologie,mesures,meteo,meteofrance,meteorologie,observations,precipitations,temperature";False;19;19;"xml";452;"";"";"";"";"";"1.00";0;0;0;2978;414
+"5b729e678b4c415026090df4";"Inventaire des archives du climat conservées dans les centres de la Direction InterRégionale Ile-de-France-Centre";"inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-ile-de-france-centre";"ArClim";"https://www.data.gouv.fr/fr/datasets/inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-ile-de-france-centre/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture, au format xml, des inventaires des fonds d'archives du climat de la Direction Interrégionale Ile-de-France-Centre.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"1999-12-31";"fr:commune";"France métropolitaine";False;"2018-08-14T11:18:31.233000";"2024-12-18T15:03:48.653000";"archive,archives,climat,climatologie,mesures,meteo,meteofrance,meteorologie,observations,precipitations,temperature";False;11;11;"xml";359;"";"";"";"";"";"1.00";0;0;0;1756;324
+"5b727d4c8b4c41176f720d28";"Inventaire des archives du climat conservées dans les centres de la Direction InterRégionale Centre-Est";"inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-centre-est";"ArClim";"https://www.data.gouv.fr/fr/datasets/inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-centre-est/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture, au format xml, des inventaires des fonds d'archives du climat de la Direction Interrégionale Centre-Est.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"1999-12-31";"fr:commune";"France métropolitaine";False;"2018-08-14T08:57:16.156000";"2024-12-18T11:07:25.135000";"archive,archives,climat,climatologie,mesures,meteo,meteofrance,meteorologie,observations,precipitations,temperature";False;22;22;"xml";828;"";"";"";"";"";"1.00";0;0;0;2698;845
+"5b726ae88b4c417d0313c288";"Inventaire des archives du climat conservées dans les centres de la Direction InterRégionale Nord-Est";"inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-nord-est";"ArClim";"https://www.data.gouv.fr/fr/datasets/inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-nord-est/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture, au format xml, des inventaires des fonds d'archives du climat de la Direction Interrégionale Nord-Est.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"1999-12-31";"fr:commune";"France métropolitaine";False;"2018-08-14T07:38:48.781000";"2024-12-18T12:54:43.600000";"archive,archives,climat,climatologie,mesures,meteo,meteofrance,meteorologie,observations,precipitations,temperature";False;17;17;"xml";546;"";"";"";"";"";"1.00";0;0;0;2181;520
+"5b718aed8b4c411c36677020";"Inventaire des archives du climat conservées dans les centres de la Direction InterRégionale Nord";"inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-nord";"ArClim";"https://www.data.gouv.fr/fr/datasets/inventaire-des-archives-du-climat-conservees-dans-les-centres-de-la-direction-interregionale-nord/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture, au format xml, des inventaires des fonds d'archives du climat de la Direction Interrégionale Nord.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"1999-12-31";"fr:commune";"France métropolitaine";False;"2018-08-13T15:43:09.310000";"2024-12-18T13:01:35.627000";"archive,archives,climat,climatologie,mesures,meteo,meteofrance,meteorologie,observations,precipitations,temperature";False;13;13;"xml";400;"";"";"";"";"";"1.00";0;0;0;2024;369
+"5b714efe8b4c4136058be7f1";"Cadre de classement des archives du climat";"cadre-de-classement-des-archives-du-climat";"ArClim";"https://www.data.gouv.fr/fr/datasets/cadre-de-classement-des-archives-du-climat/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Fourniture, au format xml, du cadre de classement des fonds des archives du climat conservés à Météo-France. Le cadre de classement décrit l’organisation du stockage de ces archives par site de conservation, avec les séries de cotes associées. Les archives du climat sont conservées sur différents sites de Météo-France en métropole et en outre-mer, ou versées aux Archives nationales ou départementales.**
+
+Météo-France conserve ses archives du climat pour assurer ses missions de conservation de la mémoire du climat et de caractérisation scientifique du climat passé et à venir.
+
+Il s’agit essentiellement de relevés d’observations météorologiques rassemblés sur le territoire métropolitain, ultramarin ou dans les anciennes colonies françaises, et de documentation sur les stations météorologiques, les techniques d’observation et les instruments de mesure, depuis la création du premier service météorologique français en 1855.
+
+Météo-France propose un accès à ces fonds par un site web qui met à disposition plusieurs milliers de notices descriptives d’inventaire et offre à la consultation une partie de ces archives sous forme numérique (format JPEG ou PDF). La recherche peut s’effectuer par station météorologique, paramètre météorologique et/ou date. 
+
+**Adresse du site web :** http://archives-climat.fr
+";"annual";"Licence Ouverte / Open Licence";"1850-01-01";"1999-12-31";"fr:departement";"France";False;"2018-08-13T11:27:26.239000";"2024-12-18T15:05:58.491000";"archive,archives,climat,climatologie,mesures,meteo,meteofrance,meteorologie,observations,precipitations,temperature";False;1;1;"xml";90;"";"";"";"";"";"1.00";0;0;0;1998;80
+"58dded5688ee385381896373";"Données de modèle atmosphérique à aire limitée à haute résolution sur l'Outre-mer";"donnees-de-modele-atmospherique-a-aire-limitee-a-haute-resolution-sur-loutre-mer";"";"https://www.data.gouv.fr/fr/datasets/donnees-de-modele-atmospherique-a-aire-limitee-a-haute-resolution-sur-loutre-mer/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Champs d'analyse et de prévision en points de grille régulière issus du modèle atmosphérique AROME sur 5 domaines (Antilles, Guyane, Réunion-Mayotte, Polynésie, Nouvelle-Calédonie).
+
+Paramètres, niveaux, échéances et sous-domaines paramétrables selon diverses résolutions et échéances jusqu'à H+42h.
+
+Fréquence : 6h (12h pour la Polynésie) - Format : GRIB V2 - Résolution : 0,025° (env. 2,5 km).";"continuous";"Licence Ouverte / Open Licence";"";"";"";"";False;"2017-03-31T07:47:02.497000";"2017-03-31T07:49:49.892000";"humidite,modelisation-numerique,nebulosite,precipitations,previsions-meteo,rayonnement,temperature,vent";False;1;1;"grib2";513;"";"";"";"";"";"0.67";0;0;0;1812;401
+"57ecdd1988ee3845045ff490";"Vigilance météorologique en métropole";"vigilance-meteorologique-en-metropole";"";"https://www.data.gouv.fr/fr/datasets/vigilance-meteorologique-en-metropole/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Le flux de données publiques de la Vigilance est constitué de :
+
+- un produit ""bulletin"" de Vigilance, au format JSON : ce produit contient le texte des bulletins de suivi diffusés, qu’ils soient nationaux, zonaux (au sens zones de défense) ou départementaux
+- un produit ""carte"" de Vigilance, au format JSON : ce produit contient les prévisions de risque, dont la chronologie des phénomènes, de niveau national et départemental
+- trois vignettes des cartes nationales de Vigilance à haute définition et au format PNG pour J et J+1, J seul, J+1 seul
+
+Les données du flux temps réel de Vigilance sont mises à jour dès qu'une nouvelle diffusion d'une Vigilance a lieu. Il revient au développeur de télécharger régulièrement chacun des 5 fichiers pour vérifier s'ils ont été mis à jour via les informations de dates expliquées dans la documentation disponible sur le portail des Données publiques de Météo France. 
+";"continuous";"Licence Ouverte / Open Licence";"";"";"fr:departement";"France";False;"2016-09-29T11:21:29.733000";"2023-12-11T09:27:26.011000";"meteorologie,securite-publique,vigilance";False;2;1;"html,pdf";2397;"";"";"";"";"";"0.89";0;7;6;10614;2414
+"560c226788ee38520083905f";"Indices saisonniers d'anomalie de précipitations et d'anomalies de nombre de jours de précipitations issus du modèle Aladin-Climat";"indices-saisonniers-danomalie-de-precipitations-et-danomalies-de-nombre-de-jours-de-precipitations-issus-du-modele-aladin-climat";"";"https://www.data.gouv.fr/fr/datasets/indices-saisonniers-danomalie-de-precipitations-et-danomalies-de-nombre-de-jours-de-precipitations-issus-du-modele-aladin-climat/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Fourniture, au format texte, des **moyennes des différents indices saisonniers d'anomalie de précipitations et d'anomalies de nombre de jours de précipitations**, sur les 8602 points terrestres de la France métropolitaine et sur les **horizons proche** (2021-2050), **moyen** (2041-2070) et **lointain** (2071-2100), pour les **scénarios RCP** (Representative Concentration Pathway) **2,6 / 4,5 / 8.5**. Moyennes calculées à partir de données corrigées du CNRM (Centre National de Recherches Météorologiques).";"punctual";"Licence Ouverte / Open Licence";"2021-01-01";"2100-12-31";"poi";"";False;"2015-09-30T19:56:55.887000";"2016-02-12T23:35:48.108000";"aladin,anomalie-de-precipitations,climat,cnrm,france-metropolitaine,projections,saisonniers,scenario-rcp";False;3;3;"txt";201;"";"";"";"";"";"1.00";0;0;0;2198;188
+"560bfb0788ee38520083905a";"Indices annuels de température et nombre de jours de température issus du modèle Aladin pour le scénario RCP 2.6";"indices-annuels-de-temperature-et-nombre-de-jours-de-temperature-issus-du-modele-aladin-pour-le-scenario-rcp-2-6";"";"https://www.data.gouv.fr/fr/datasets/indices-annuels-de-temperature-et-nombre-de-jours-de-temperature-issus-du-modele-aladin-pour-le-scenario-rcp-2-6/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Fourniture, au format texte, des moyennes des différents indices annuels de températures et de nombre de jours de températures, sur les 8602 points terrestres de la France métropolitaine et sur les horizons proche (2021-2050), **moyen **(2041-2070) et **lointain **(2071-2100), pour le scénario RCP (Representative Concentration Pathway) 2.6. Moyennes calculées à partir de données corrigées du CNRM (Centre National de Recherches Météorologiques).";"punctual";"Licence Ouverte / Open Licence";"2021-01-01";"2100-12-31";"poi";"";False;"2015-09-30T17:08:55.670000";"2015-09-30T17:08:55.670000";"aladin,annuel,cnrm,france,scenario-rcp,temperature";False;0;0;"";0;"";"";"";"";"";"0.67";0;0;0;422;""
+"55b0f44088ee3838d13ca28a";"Données du modèle atmosphérique global ARPEGE";"donnees-du-modele-atmospherique-global-arpege";"";"https://www.data.gouv.fr/fr/datasets/donnees-du-modele-atmospherique-global-arpege/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Champs d'analyse et de prévision en points de grille régulière sur différents domaines géographiques issus du modèle de prévision atmosphérique global français Arpège.
+ 
+Paramètres, niveaux, échéances et sous-domaines paramétrables selon diverses résolutions et échéances jusqu'à H+102 h maximum.
+
+Monde - Fréquence : 6 h - Format : GRIB V2 - Résolution : 0,5° sur le monde/0,1° sur l'Europe
+
+Les données de Météo-France concernées ici sont exploitables et interopérables en conformité avec les standards de l'OGC (Open Geospatial Consortium) et la directive INSPIRE";"continuous";"Licence Ouverte / Open Licence";"";"";"other";"France,Union Européenne,Monde";False;"2015-07-23T16:03:44.455000";"2016-09-13T10:41:14.476000";"analyses,humidite,meteo,modelisation-numerique,nebulosite,precipitations,previsions-meteo,rayonnement,temperature,vent";False;1;0;"grib2";954;"";"";"";"";"";"0.89";0;2;0;5239;954
+"55b0f09388ee3838d73ca288";"Données du modèle atmosphérique AROME à aire limitée à haute résolution";"donnees-du-modele-atmospherique-arome-a-aire-limitee-a-haute-resolution";"";"https://www.data.gouv.fr/fr/datasets/donnees-du-modele-atmospherique-arome-a-aire-limitee-a-haute-resolution/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Champs d'analyse et de prévisions en points de grilles, issus du modèle atmosphérique Arome sur la métropole.
+
+Choix des paramètres, niveaux, échéances jusqu'à H+36h ou 42h.
+
+Format : GRIB V2  - Résolution : 0,025° (env. 2,5 km) et 0.01° (en 1.3km)
+
+Les données de Météo-France concernées ici sont exploitables et interopérables en conformité avec les standards de l'OGC (Open Geospatial Consortium) et la directive INSPIRE";"continuous";"Licence Ouverte / Open Licence";"";"";"other";"France";False;"2015-07-23T15:48:03.601000";"2023-12-11T10:09:11.155000";"analyse,humidite,meteo,modelisation-numerique,nebulosite,precipitations,previsions-meteo,rayonnement,temperature,vent";False;1;0;"grib2";1809;"";"";"";"";"";"0.89";0;1;3;6353;1810
+"55682fc4c751df5acfe57269";"Données d'observation en mer (bouées et bateaux)";"donnees-dobservation-en-mer-bouees-et-bateaux-3";"";"https://www.data.gouv.fr/fr/datasets/donnees-dobservation-en-mer-bouees-et-bateaux-3/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Données d'observations météorologiques effectuées par les navires sélectionnés français ou par les bouées fixes ou dérivantes.
+
+Données issues des messages SHIP et BUOY circulant sur le système mondial de télécommunication (SMT) de l’Organisation Météorologique Mondiale (OMM). 
+
+Paramètres : direction et force du vent, température de l'air et de la mer, humidité, pression, hauteur et période des vagues.
+
+Fichiers quotidiens sur les 15 derniers jours et archives mensuelles depuis janvier 1996.
+
+Métropole et Outre Mer   - Fréquence : 1 h   - Format : ASCII";"continuous";"Licence Ouverte / Open Licence";"";"";"country";"France";False;"2015-05-29T11:22:12.379000";"2015-10-22T14:01:30.986000";"mer,observation,temperature,vagues,vent";False;1;0;"ascii";626;"";"";"";"";"";"0.89";0;0;0;3772;614
+"546a0fd8c751df054d6c8d07";"Données d'observations du réseau nivo-météorologique";"donnees-dobservations-du-reseau-nivo-meteorologique";"";"https://www.data.gouv.fr/fr/datasets/donnees-dobservations-du-reseau-nivo-meteorologique/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Données d'observations météorologiques issues des stations de montagne opérées par les partenaires conventionnés avec Météo-France pour la surveillance du manteau neigeux en période hivernale. Elles sont disponibles depuis décembre 2010.
+
+Paramètres : direction et force du vent, température de l'air, humidité, hauteurs de neige et divers paramètres de caractérisation de la neige accumulée au sol.
+
+Metropole (Montagne)   - Fréquence : 12 h   - Format : ASCII";"continuous";"Licence Ouverte / Open Licence";"";"";"other";"Montagne";False;"2014-11-17T16:10:16.173000";"2016-03-10T23:34:54.723000";"meteo,neige,temperatures,vent";False;1;0;"ascii";1020;"";"";"";"";"";"0.89";1;1;0;4528;1004
+"546a0db0c751df7b9f6c8d07";"Données historiques des cartes et bulletins de Vigilance";"donnees-historiques-des-cartes-et-bulletins-de-vigilance-1";"";"https://www.data.gouv.fr/fr/datasets/donnees-historiques-des-cartes-et-bulletins-de-vigilance-1/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Données historiques des cartes et bulletins de Vigilance de Météo-France, du 1er octobre 2001 à J-1.
+Les cartes sont affichées au format GIF et les bulletins au format HTML .
+Les données se téléchargent sous forme de fichier journalier compressé, à sur un calendrier de sélection, dont la couleur maximale de la Vigilance du jour est celle affichée en fond de cellule dans le calendrier";"continuous";"Licence Ouverte / Open Licence";"";"";"fr:departement";"";False;"2014-11-17T16:01:03.327000";"2016-03-10T23:34:55.597000";"";False;1;0;"xml; gif";2666;"";"";"";"";"";"0.89";0;0;0;7172;2671
+"539a6e67a3a7293bc272838f";"Prévisions du modèle de chimie-transport MOCAGE sur la zone Large Molène pour un mois";"previsions-du-modele-de-chimie-transport-mocage-sur-la-zone-large-molene-pour-un-mois";"";"https://www.data.gouv.fr/fr/datasets/previsions-du-modele-de-chimie-transport-mocage-sur-la-zone-large-molene-pour-un-mois/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Données de prévisions horaires puis tri-horaires du modèle de chimie-transport MOCAGE - Qualité de l'Air, sur la zone 47°N-49°N, 2°W-5°W, pour les 31 runs de 12hUTC du mois de janvier 014. Ce jeu de données est mis à disposition pour l'opération Archipel Molène. La résolution horizontale sur la zone retenue est de 10km.";"punctual";"Licence Ouverte / Open Licence";"2014-01-01";"2014-01-31";"fr:region";"";False;"2014-06-12T10:47:33.502000";"2015-12-26T09:35:50.743000";"chimie,meteo,molene,pm10,qualite-de-l-air";False;2;2;"grib1,txt";615;"";"";"";"";"";"1.00";0;0;0;2833;560
+"53698ed9a3a729239d2035a3";"Animation Cartes modèles atmosphériques";"animation-cartes-modeles-atmospheriques";"";"https://www.data.gouv.fr/fr/datasets/animation-cartes-modeles-atmospheriques/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Images temps réel des modèles atmosphériques de Météo-France. 
+
+* Prévisions à 30 heures du modèle AROME à aire limitée et maille fine sur la France.
+* Modèle global ARPEGE sur le monde à 48 heures d'échéance. 
+
+Animations pour 5 paramètres : 
+
+* pression niveau de la mer (hPa), 
+* température (°C),
+* humidité relative à 850hPa (%),
+* vecteur vent à 10m (représentation sous forme de barbules),
+* géopotentiel à 500 hPa (m).";"continuous";"Licence Ouverte / Open Licence";"";"";"other";"";False;"2013-08-16T12:01:31.590000";"2016-03-10T23:34:32.695000";"france,meteorologie,monde,previsions";False;1;1;"html";402;"";"";"";"";"";"0.78";0;0;0;2226;363
+"53698edaa3a729239d2035a6";"Animations radar";"animations-radar";"";"https://www.data.gouv.fr/fr/datasets/animations-radar/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Animation d'images de réflectivité de la mosaïque radar nationale sur une période de 3 heures par pas de 15 min dans les 4 dernières heures.";"continuous";"Licence Ouverte / Open Licence";"";"";"country";"France";False;"2013-08-16T11:52:37.863000";"2023-12-11T09:33:18.651000";"meteo,meteorologie,precipitation,radar";False;1;1;"html";696;"";"";"";"";"";"0.67";0;0;4;4022;690
+"53698fdca3a729239d20385f";"Bulletin climatique mensuel sur la France";"bulletin-climatique-mensuel-sur-la-france";"";"https://www.data.gouv.fr/fr/datasets/bulletin-climatique-mensuel-sur-la-france/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Cartes, graphiques et synthèses (12 pages)
+
+Disponible mensuellement de janvier 1999 au mois précédent le mois actuel.
+
+*Couverture géographique : Métropole*
+
+*Fréquence : mensuelle*
+
+*Format : PDF*";"continuous";"Licence Ouverte / Open Licence";"";"";"country";"";False;"2013-08-16T11:48:35.963000";"2016-03-10T23:34:37.210000";"caracteristiques-geographiques-m,climat,climatologie,meteorologie";False;1;1;"pdf";384;"";"";"";"";"";"0.67";0;0;0;2673;373
+"53698fdda3a729239d203860";"Bulletin climatique quotidien sur la France";"bulletin-climatique-quotidien-sur-la-france";"";"https://www.data.gouv.fr/fr/datasets/bulletin-climatique-quotidien-sur-la-france/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"**Disponible à partir du 1er janvier 1973**
+
+Cartes et synthèse (2 pages)
+
+*Couverture géographique : Métropole*
+
+*Fréquence : quotidienne*
+
+*Format : PDF*";"continuous";"Licence Ouverte / Open Licence";"";"";"country";"France";False;"2013-08-16T11:45:58.548000";"2016-03-05T11:33:47.445000";"climat,climatique,climatologie";False;1;1;"pdf";419;"";"";"";"";"";"0.67";1;0;0;2499;385
+"53698fdca3a729239d20385e";"Bulletin climatique mensuel régional";"bulletin-climatique-mensuel-regional";"";"https://www.data.gouv.fr/fr/datasets/bulletin-climatique-mensuel-regional/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Cartes, graphiques et synthèses (4 pages)
+
+Disponible mensuellement à partir de janvier 2012 et jusqu'au mois précédent le mois actuel.
+
+De 2001 à 2011, les bulletins sont édités par département.
+
+*Couverture géographique: Métropole*
+
+*Fréquence : mensuelle*
+
+*Format : PDF*";"continuous";"Licence Ouverte / Open Licence";"";"";"fr:region";"France";False;"2013-08-16T11:02:46.939000";"2015-12-31T11:33:05.411000";"climat,climatologie";False;1;1;"pdf";526;"";"";"";"";"";"0.67";0;0;0;3183;508
+"53699e86a3a729239d205ecc";"Observations d'altitude (Radio sondages)";"observations-daltitude-radio-sondages";"";"https://www.data.gouv.fr/fr/datasets/observations-daltitude-radio-sondages/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Profils verticaux de température, vent, humidité, obtenus à partir de sondage par ballon, entre le sol et l'altitude d'éclatement du ballon (20 à 30 km).
+
+Données pour des 5 stations de France métropolitaine et 9 stations d'Outre-mer
+
+Fréquence : 1 à 2 fois par jour (00h et 12h UTC)
+
+Format : BUFR, CSV";"continuous";"Licence Ouverte / Open Licence";"";"";"poi";"France";False;"2013-08-16T11:02:12.994000";"2019-12-19T07:34:04.007000";"meteo,meteorologie,pression,radiosondage";False;1;1;"pdf";655;"";"";"";"";"";"0.78";0;1;0;2262;590
+"5369932ca3a729239d204103";"Données d'observation des principales stations météorologiques";"donnees-d-observation-des-principales-stations-meteorologiques";"";"https://www.data.gouv.fr/fr/datasets/donnees-d-observation-des-principales-stations-meteorologiques/";"Météo-France";"534fff8ba3a7292c64a77ed4";"";"";"Données d'observations issues des messages internationaux d’observation en surface (SYNOP) circulant sur le système mondial de télécommunication (SMT) de l’Organisation Météorologique Mondiale (OMM). Paramètres atmosphériques mesurés (température, humidité, direction et force du vent, pression atmosphérique, hauteur de précipitations) ou observés (temps sensible, description des nuages, visibilité) depuis la surface terrestre. Selon instrumentation et spécificités locales, d'autres paramètres peuvent être disponibles (hauteur de neige, état du sol, etc.)
+Les archives de ces données sont téléchargeables en ligne depuis janvier 1996
+
+*Métropole et outre-mer*
+
+*Fréquence : 3 h*
+
+*Format : CSV*";"continuous";"Licence Ouverte / Open Licence";"1996-01-01";"2023-12-11";"poi";"France";False;"2013-08-16T10:53:20.727000";"2023-12-11T09:20:09.257000";"caracteristiques-geographiques-m,meteo,meteorologie,stations";False;2;1;"csv";12772;"";"";"";"";"";"1.00";1;14;16;45736;12861
